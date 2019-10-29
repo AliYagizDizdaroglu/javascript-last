@@ -13,13 +13,10 @@ firebase.initializeApp(config);
 const database = firebase.firestore();
 
 const data = getWordCount(art);
-console.log(data);
 database
   .collection('bitirme')
   .doc('art')
-  .set({
-    data,
-  })
+  .set(data)
   .then(() => {
     console.log('Document successfully written!');
   })

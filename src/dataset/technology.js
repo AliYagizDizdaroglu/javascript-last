@@ -4289,7 +4289,7 @@ const technology = [
   'net',
   'değil.',
   'https://www.ntv.com.tr/teknoloji/surucusuz-otomobil-yola-cikticoolusgq2uwogrc62oclvg',
-  '',
+
   '2017-11-27',
   '14:00:01',
   '2',
@@ -4397,7 +4397,7 @@ const technology = [
   'etti.',
   'rr.',
   'https://www.ntv.com.tr/teknoloji/akilli-telefon-bagimliligina-karsi-vekil-telefonuvy3h6woo0inkz1hczylwg',
-  '',
+
   '2017-11-27',
   '14:00:06',
   '2',
@@ -4493,7 +4493,7 @@ const technology = [
   'sahiplik',
   'yapıyor.',
   'https://www.ntv.com.tr/teknoloji/iphone-x-iphone-8-plusa-karsi-daha-kucuk-kasa-daha-buyuk-ekranngen4ps-0kkhaadfmexjkw',
-  '',
+
   '2017-11-28',
   '10:00:03',
   '2',
@@ -4600,7 +4600,7 @@ const technology = [
   'alt',
   'çekmek.',
   'https://www.ntv.com.tr/teknoloji/avrupa-devleri-hibrit-elektrikli-ucak-icin-kollari-sivadimy3cer41ekoxcvsqvdtxxw',
-  '',
+
   '2017-11-28',
   '19:00:07',
   '2',
@@ -4702,7 +4702,7 @@ const technology = [
   'olma',
   'bekliyorum.',
   'https://www.ntv.com.tr/teknoloji/11-yasindaki-kiz-25-bin-dolar-degerindeki-bilim-odulunun-sahibi-oldukahrv1a0pueuaz1ys7fska',
-  '',
+
   '2017-11-29',
   '07:00:06',
   '2',
@@ -4881,7 +4881,7 @@ const technology = [
   'edebilecek',
   'belirtti.',
   'https://www.ntv.com.tr/teknoloji/itulu-bilim-insanlarina-gore-kitalar-bal-gibi-damliyor-ispati-anadoluda13zzzwsdu0c0vwcvzkpqia',
-  '',
+
   '2017-11-29',
   '08:00:07',
   '2',
@@ -5000,7 +5000,7 @@ const technology = [
   'edildik',
   'vurguladı.',
   'https://www.ntv.com.tr/teknoloji/ucaklar-icin-dronelar-kuslardan-tehlikeli26p6hobv5uwewhvckkzsqg',
-  '',
+
   '2017-11-29',
   '14:00:06',
   '2',
@@ -5125,7 +5125,7 @@ const technology = [
   'ifade',
   'ediliyor.',
   'https://www.ntv.com.tr/teknoloji/yeti-efsanesi-bilimsel-olarak-curutuldudrffcvq6lugfhvughdecng',
-  '',
+
   '2017-11-29',
   '17:00:02',
   '2',
@@ -5225,7 +5225,7 @@ const technology = [
   'il',
   'satılmakta.',
   'https://www.cnnturk.com/teknoloji/yillar-sonra-yeni-nesil-konsollara-geliyor',
-  '',
+
   '2017-11-30',
   '11:04:48',
   '2',
@@ -5351,7 +5351,7 @@ const technology = [
   'da',
   'bilinmiyor.',
   'https://www.cnnturk.com/teknoloji/pubg-telefonlara-geliyor',
-  '',
+
   '2017-11-30',
   '12:22:49',
   '2',
@@ -5436,7 +5436,7 @@ const technology = [
   'yer',
   'alacak.',
   'https://www.cnnturk.com/teknoloji/civilization-vi-rise-and-fall-steamde-on-sipariste',
-  '',
+
   '2017-11-30',
   '16:22:12',
   '2',
@@ -5544,23 +5544,23 @@ const technology = [
   'yapma',
   'gerekiyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/877194/robotlar_800_milyona_yakin_kisiyi_issiz_birakabilir.html',
-  '',
+
   '2017-11-30',
   '18:27:04',
   '2',
@@ -5613,23 +5613,23 @@ const technology = [
   'iddia',
   'ediliyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/877223/whatsapp_a_erisim_saglanamiyor...__siber_saldiriya_maruz_kalmis_olabilir_.html',
-  '',
+
   '2017-11-30',
   '19:09:03',
   '2',
@@ -5717,7 +5717,7 @@ const technology = [
   'alabilme',
   'mümkün.',
   'https://www.cnnturk.com/teknoloji/epson-l6190-kucuk-ofislerin-en-buyuk-yardimcisi',
-  '',
+
   '2017-12-01',
   '06:11:03',
   '2',
@@ -5784,7 +5784,7 @@ const technology = [
   'güncel',
   'mi.',
   'https://www.cnnturk.com/teknoloji/galaxy-s8-ve-galaxy-s8-ta-kamera-sorunu-var',
-  '',
+
   '2017-12-01',
   '08:11:07',
   '2',
@@ -5876,7 +5876,7 @@ const technology = [
   'hiss',
   'fiyatlarını.',
   'https://www.cnnturk.com/teknoloji/qualcomm-davasindan-vazgecmiyor',
-  '',
+
   '2017-12-01',
   '09:11:04',
   '2',
@@ -6018,7 +6018,7 @@ const technology = [
   'da',
   'içeriyor.',
   'https://www.cnnturk.com/bilim-teknoloji/apple-tum-apple-storelarda-kodlama-saatini-kutluyor',
-  '',
+
   '2017-12-01',
   '09:44:04',
   '2',
@@ -6132,7 +6132,7 @@ const technology = [
   'alınarak',
   'tasarlandı.',
   'https://www.cnnturk.com/teknoloji/autosense-teknolojisini-alt-urunlerde-kullanilmaya-baslandi',
-  '',
+
   '2017-12-01',
   '10:55:02',
   '2',
@@ -6239,7 +6239,7 @@ const technology = [
   'ilgi',
   'arttırdı.',
   'https://www.cnnturk.com/teknoloji/iphone-x-ile-yarisan-telefon',
-  '',
+
   '2017-12-01',
   '11:11:03',
   '2',
@@ -6315,7 +6315,7 @@ const technology = [
   'ilke',
   'dayanıyor.',
   'https://www.cnnturk.com/teknoloji/faceidyi-10a-katlayacak-teknoloji',
-  '',
+
   '2017-12-01',
   '12:11:06',
   '2',
@@ -6400,12 +6400,12 @@ const technology = [
   'bir',
   'konuşma',
   'olt',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'yaşanan',
   'talihs',
   'olay',
@@ -6434,7 +6434,7 @@ const technology = [
   'kitap',
   'çıkarırım.',
   'https://www.ntv.com.tr/galeri/teknoloji/bitcoin-kardashianlari-solladievztd2ymveqzw0pkkwuo5a',
-  '',
+
   '2017-12-01',
   '13:00:03',
   '2',
@@ -6491,23 +6491,23 @@ const technology = [
   'hastane',
   'götürüldü.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.ntv.com.tr/galeri/teknoloji/elonmusktanbir-rekor-daha-mega-pil-calistirildi7gfafiovtk2plg5qzxacvq',
-  '',
+
   '2017-12-01',
   '13:00:06',
   '2',
@@ -6573,7 +6573,7 @@ const technology = [
   'dolar',
   'satılmıştı.',
   'https://www.cnnturk.com/teknoloji/yemeksepeti-alan-adini-yenilemeyi-unuttu',
-  '',
+
   '2017-12-01',
   '13:11:05',
   '2',
@@ -6648,7 +6648,7 @@ const technology = [
   'gip',
   'gösterirsiniz.',
   'https://www.ntv.com.tr/galeri/teknoloji/appleintasarim-sefindeniphoneitirafiiscel65ruu24gqhndb2iog',
-  '',
+
   '2017-12-01',
   '14:00:02',
   '2',
@@ -6710,7 +6710,7 @@ const technology = [
   'oran',
   'ulaşabiliyor.',
   'https://www.cnnturk.com/teknoloji/hdmi-2-1-kendinden-bekleneni-fazlasiyla-verebiliyor',
-  '',
+
   '2017-12-01',
   '14:11:06',
   '2',
@@ -6785,7 +6785,7 @@ const technology = [
   'yapıldık',
   'söyleyelim.',
   'https://www.cnnturk.com/teknoloji/californiada-evlere-5g-hizinda-internet',
-  '',
+
   '2017-12-01',
   '15:11:03',
   '2',
@@ -6865,23 +6865,23 @@ const technology = [
   'ihtiyaç',
   'karşılayabiliyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/877954/dunyanin_en_buyuk_pili_calistirildi.html',
-  '',
+
   '2017-12-02',
   '04:09:09',
   '2',
@@ -6953,7 +6953,7 @@ const technology = [
   'da',
   'belirtelim.',
   'https://www.cnnturk.com/teknoloji/essential-phone-portre-moduna-kavusuyor',
-  '',
+
   '2017-12-02',
   '05:11:03',
   '2',
@@ -7048,7 +7048,7 @@ const technology = [
   'olarak',
   'tanıtılacak.',
   'https://www.cnnturk.com/teknoloji/zte-axon-7nin-uretimi-durduruldu',
-  '',
+
   '2017-12-02',
   '06:11:02',
   '2',
@@ -7083,7 +7083,7 @@ const technology = [
   'sahip.',
   ' honor',
   'v10',
-  '',
+
   'huawei’nin',
   'phablet',
   'mate',
@@ -7132,14 +7132,14 @@ const technology = [
   'sürülen',
   'honor',
   'v10',
-  '',
+
   '5',
   'aralık',
   'avrupa’da',
   'satış',
   'çıkacak.',
   'https://www.cnnturk.com/teknoloji/huawei-honor-v10a-antutudan-yuksek-not',
-  '',
+
   '2017-12-02',
   '07:11:03',
   '2',
@@ -7233,10 +7233,10 @@ const technology = [
   'tarih',
   'kadar)playstation',
   '3',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'syberia',
   'collection',
   '(thq',
@@ -7254,7 +7254,7 @@ const technology = [
   '(eko',
   'software).',
   'https://www.cnnturk.com/teknoloji/ps-plus-aralik-oyunlari-yakinda-indirmeye-sunulacak',
-  '',
+
   '2017-12-02',
   '08:11:03',
   '2',
@@ -7324,7 +7324,7 @@ const technology = [
   'sunulacak',
   'belirtmişti.',
   'https://www.cnnturk.com/teknoloji/huawei-daydream-vr-kontrolcu-ile-gelecek',
-  '',
+
   '2017-12-02',
   '09:11:04',
   '2',
@@ -7421,7 +7421,7 @@ const technology = [
   'atlamamak',
   'gerekiyor.',
   'https://www.cnnturk.com/teknoloji/huawei-nova-2s-mi-yoksa-mate-10-lite-mi',
-  '',
+
   '2017-12-02',
   '10:11:04',
   '2',
@@ -7545,7 +7545,7 @@ const technology = [
   'plan',
   'çıktı.',
   'https://www.ntv.com.tr/teknoloji/aselsana-elektronik-tasarim-alaninda-odulgqtngr9nsuulpja-frtrwq',
-  '',
+
   '2017-12-02',
   '12:00:03',
   '2',
@@ -7693,7 +7693,7 @@ const technology = [
   'indirilebilir',
   'durumda.',
   'https://www.cnnturk.com/teknoloji/ios-11-icin-11-2-guncellemesi-yayinlandi',
-  '',
+
   '2017-12-02',
   '12:33:03',
   '2',
@@ -7759,7 +7759,7 @@ const technology = [
   'etkileyecek',
   'bilinmiyor.',
   'https://www.cnnturk.com/teknoloji/telefonunuza-caktirmadan-bakanlar-yandi',
-  '',
+
   '2017-12-02',
   '14:11:02',
   '2',
@@ -7843,7 +7843,7 @@ const technology = [
   'hayat',
   'girecek.',
   'https://www.cnnturk.com/teknoloji/3-boyutlu-yazici-10-kat-hizlaniyor',
-  '',
+
   '2017-12-03',
   '05:11:02',
   '2',
@@ -7955,7 +7955,7 @@ const technology = [
   'par',
   'yatırıyor.',
   'https://www.cnnturk.com/teknoloji/teknolojideki-gelismeler-bankacilik-sistemini-ve-nakit-parayi-devirecek',
-  '',
+
   '2017-12-03',
   '06:11:03',
   '2',
@@ -8017,23 +8017,23 @@ const technology = [
   'uygulama',
   'bulunuyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/878638/whatsapp_kullanicilarina_mujde__artik_internetsiz_de_kullanabileceksiniz.html',
-  '',
+
   '2017-12-03',
   '06:45:02',
   '2',
@@ -8102,7 +8102,7 @@ const technology = [
   'da',
   'yok.',
   'https://www.cnnturk.com/teknoloji/iphone-xin-etkisi-gecici-degil',
-  '',
+
   '2017-12-03',
   '07:11:03',
   '2',
@@ -8197,7 +8197,7 @@ const technology = [
   'şikayet',
   'gelmişti.',
   'https://www.cnnturk.com/teknoloji/galaxy-s8-ve-galaxy-s8-larda-yine-sorunlar-bas-gosterdi',
-  '',
+
   '2017-12-03',
   '08:11:03',
   '2',
@@ -8294,7 +8294,7 @@ const technology = [
   'sun',
   'değil.',
   'https://www.cnnturk.com/teknoloji/google-home-max-2018den-once-cikacak',
-  '',
+
   '2017-12-03',
   '10:11:04',
   '0',
@@ -8372,7 +8372,7 @@ const technology = [
   'üretmek',
   'istiyor.',
   'https://www.cnnturk.com/teknoloji/appledan-dev-hamle',
-  '',
+
   '2017-12-03',
   '11:11:03',
   '2',
@@ -8447,7 +8447,7 @@ const technology = [
   'tasarım',
   'vardı.',
   'https://www.cnnturk.com/teknoloji/telefon-kullanim-aliskanliklarimiz-degisebilir',
-  '',
+
   '2017-12-03',
   '14:11:03',
   '2',
@@ -8538,7 +8538,7 @@ const technology = [
   'sahip',
   'olacak.',
   'https://www.cnnturk.com/teknoloji/essential-phone-2-daha-kolay-tamir-edilebilecek',
-  '',
+
   '2017-12-03',
   '15:11:04',
   '2',
@@ -8608,7 +8608,7 @@ const technology = [
   'ark',
   'kamera.',
   'https://www.cnnturk.com/teknoloji/htc-hizli-davranan-sirketler-arasinda',
-  '',
+
   '2017-12-04',
   '06:11:03',
   '2',
@@ -8695,7 +8695,7 @@ const technology = [
   'olma',
   'bekleniyor.',
   'https://www.cnnturk.com/teknoloji/xbox-one-x-sahiplerine-mujde',
-  '',
+
   '2017-12-04',
   '07:11:03',
   '2',
@@ -8783,23 +8783,23 @@ const technology = [
   'ulaş',
   'kapatılıyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/879206/emniyet_ozel_birim_kurdu...__dine_ve_devlete_hakaret__edenleri_izleyecek.html',
-  '',
+
   '2017-12-04',
   '07:27:03',
   '2',
@@ -8878,7 +8878,7 @@ const technology = [
   'karş',
   'çıkacak.',
   'https://www.cnnturk.com/teknoloji/sesli-kitap-destegi-basladi',
-  '',
+
   '2017-12-04',
   '08:11:07',
   '2',
@@ -8973,7 +8973,7 @@ const technology = [
   'iddia',
   'edilmişti.',
   'https://www.cnnturk.com/teknoloji/samsung-s8-microsoft-edition-dedikodularini-yalanladi',
-  '',
+
   '2017-12-04',
   '09:11:06',
   '2',
@@ -9084,7 +9084,7 @@ const technology = [
   'al',
   'göreceksiniz.',
   'https://www.cnnturk.com/teknoloji/android-8-1-sorunlari-cozdu',
-  '',
+
   '2017-12-04',
   '10:11:02',
   '2',
@@ -9188,7 +9188,7 @@ const technology = [
   'sun',
   'oluyor.',
   'https://www.cnnturk.com/teknoloji/evinizde-hepsi-bir-arada-internet-deneyimi',
-  '',
+
   '2017-12-04',
   '11:11:03',
   '2',
@@ -9275,7 +9275,7 @@ const technology = [
   'kazan',
   'değil.',
   'https://www.cnnturk.com/teknoloji/oppo-a83-orta-segmente-hitap-ediyor',
-  '',
+
   '2017-12-04',
   '12:11:03',
   '2',
@@ -9373,7 +9373,7 @@ const technology = [
   'dah',
   'fazla.',
   'https://www.cnnturk.com/teknoloji/kapakli-telefon-samsung-w2018-tanitildi',
-  '',
+
   '2017-12-04',
   '13:11:06',
   '2',
@@ -9441,7 +9441,7 @@ const technology = [
   'doğurma',
   'çalışacak.',
   'https://www.cnnturk.com/teknoloji/uygun-fiyatli-ipad-geliyor',
-  '',
+
   '2017-12-04',
   '14:11:06',
   '2',
@@ -9580,7 +9580,7 @@ const technology = [
   'katkı',
   'bulundu.',
   'https://www.ntv.com.tr/galeri/teknoloji/sms-25-yasinda-ilk-kisa-mesaj-1992de-atildibngkl0ry-0y-42ezyhkwka',
-  '',
+
   '2017-12-04',
   '18:00:04',
   '2',
@@ -9616,7 +9616,7 @@ const technology = [
   'mot',
   'çekim.',
   'https://www.cnnturk.com/teknoloji/asus-zenfone-4-fotograf-performansi',
-  '',
+
   '2017-12-05',
   '05:11:03',
   '2',
@@ -9669,7 +9669,7 @@ const technology = [
   'il',
   'selfie.',
   'https://www.cnnturk.com/teknoloji/asus-zenfone-live-fotograf-performansi',
-  '',
+
   '2017-12-05',
   '06:11:02',
   '2',
@@ -9751,7 +9751,7 @@ const technology = [
   'bilgi',
   'yok.',
   'https://www.cnnturk.com/teknoloji/oneplus-5t-star-wars-edition-cikti',
-  '',
+
   '2017-12-05',
   '07:11:06',
   '2',
@@ -9828,7 +9828,7 @@ const technology = [
   'şey',
   'oldu.',
   'https://www.ntv.com.tr/teknoloji/bitcoin-ne-zaman-doyma-noktasina-ulasacaks6rsdppcg0wsoxg1_p2m3q',
-  '',
+
   '2017-12-05',
   '07:16:04',
   '2',
@@ -9907,7 +9907,7 @@ const technology = [
   'iyi',
   'olacaktır.',
   'https://www.cnnturk.com/teknoloji/2-aralika-ait-gelen-bildirimlere-dikkat',
-  '',
+
   '2017-12-05',
   '08:11:02',
   '2',
@@ -10000,7 +10000,7 @@ const technology = [
   'alt',
   'çizdi.',
   'https://www.cnnturk.com/teknoloji/rusya-menseli-antivurus-yazilimlarini-kullanmayin',
-  '',
+
   '2017-12-05',
   '09:11:08',
   '2',
@@ -10078,23 +10078,23 @@ const technology = [
   'kaynak',
   'sahip.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.cnnturk.com/bilim-teknoloji/red-bull-amaphiko-connect-egitim-eglence-ve-ilham-dolu-hafta-sonu',
-  '',
+
   '2017-12-05',
   '10:00:03',
   '2',
@@ -10185,7 +10185,7 @@ const technology = [
   'iç',
   'doğru.',
   'https://www.cnnturk.com/teknoloji/appstoredan-112-milyar-yuan-kazanc-elde-ettiler',
-  '',
+
   '2017-12-05',
   '10:11:04',
   '2',
@@ -10277,7 +10277,7 @@ const technology = [
   'teknoloji',
   'dolduracak.',
   'https://www.cnnturk.com/teknoloji/pil-teknolojisinde-bizi-ilginc-gunler-bekliyor',
-  '',
+
   '2017-12-05',
   '12:11:03',
   '2',
@@ -10348,7 +10348,7 @@ const technology = [
   'devi',
   '3.',
   'https://www.cnnturk.com/teknoloji/googlea-3-3-milyar-dolar-ceza-kesilebilir',
-  '',
+
   '2017-12-05',
   '13:11:08',
   '2',
@@ -10423,7 +10423,7 @@ const technology = [
   'güncelleme',
   'bekleniyor.',
   'https://www.cnnturk.com/teknoloji/google-maps-artik-iphone-x-ile-uyumlu',
-  '',
+
   '2017-12-05',
   '14:11:06',
   '2',
@@ -10687,23 +10687,23 @@ const technology = [
   'ifade',
   'kullandı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/teknoloji/880338/2018_de_resmi_kurumlarda_f_klavye_zorunlu_olarak_kullanilacak.html',
-  '',
+
   '2017-12-05',
   '15:36:03',
   '2',
@@ -10777,7 +10777,7 @@ const technology = [
   'de',
   'geçerli.',
   'https://www.cnnturk.com/teknoloji/apple-watch-series-3-spor-saatlerini-geride-birakti',
-  '',
+
   '2017-12-06',
   '05:11:02',
   '2',
@@ -10866,7 +10866,7 @@ const technology = [
   'karşı',
   'geliriz.',
   'https://www.cnnturk.com/teknoloji/face-id-hatasi-nasil-duzeltilir',
-  '',
+
   '2017-12-06',
   '06:11:02',
   '2',
@@ -10972,7 +10972,7 @@ const technology = [
   'açma',
   'hazırlanıyor.',
   'https://www.cnnturk.com/teknoloji/blackberry-ve-nokia-patent-ihlalleri-yuzunden-karsi-karsiya',
-  '',
+
   '2017-12-06',
   '07:11:04',
   '2',
@@ -11083,7 +11083,7 @@ const technology = [
   'gip',
   'gözüküyor.',
   'https://www.cnnturk.com/teknoloji/h8324-gun-yuzune-cikti',
-  '',
+
   '2017-12-06',
   '08:11:12',
   '2',
@@ -11115,10 +11115,10 @@ const technology = [
   '463',
   'milyar',
   'do',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'türkiye',
   '2005-2015',
   'yıl',
@@ -11227,7 +11227,7 @@ const technology = [
   'faaliyet',
   'bulunamaz.',
   'https://www.cnnturk.com/bilim-teknoloji/iklim-degisikliginin-nedeni-carpik-kentlesme-ve-fosil-yakitlar',
-  '',
+
   '2017-12-06',
   '10:11:03',
   '2',
@@ -11267,7 +11267,7 @@ const technology = [
   'mekan',
   'çekimi.',
   'https://www.cnnturk.com/teknoloji/asus-zenfone-max-fotograf-performansi',
-  '',
+
   '2017-12-06',
   '10:11:05',
   '2',
@@ -11336,7 +11336,7 @@ const technology = [
   'bilgi',
   'vermedi.',
   'https://www.cnnturk.com/teknoloji/venezuela-sanal-para-birimi-cikardi',
-  '',
+
   '2017-12-06',
   '11:11:03',
   '2',
@@ -11429,7 +11429,7 @@ const technology = [
   'patlak',
   'verdi.',
   'https://www.cnnturk.com/teknoloji/25-yillik-efsane-sms',
-  '',
+
   '2017-12-06',
   '12:11:03',
   '2',
@@ -11516,7 +11516,7 @@ const technology = [
   'el',
   'edebilirsiniz.',
   'https://www.cnnturk.com/teknoloji/asus-zenfone-4-ailesi-video-performansi',
-  '',
+
   '2017-12-06',
   '14:11:04',
   '2',
@@ -11610,7 +11610,7 @@ const technology = [
   'gip',
   'görünüyor.',
   'https://www.cnnturk.com/teknoloji/iphone-x-rekoru-da-beraberinde-getirdi',
-  '',
+
   '2017-12-06',
   '15:11:02',
   '2',
@@ -11697,7 +11697,7 @@ const technology = [
   'çok',
   'önemsiyor.',
   'https://www.cnnturk.com/bilim-teknoloji/pokemon-sevenlere-mujde',
-  '',
+
   '2017-12-07',
   '01:33:03',
   '2',
@@ -11829,7 +11829,7 @@ const technology = [
   'orta',
   'koydu.',
   'https://www.cnnturk.com/bilim-teknoloji/tunc-caginda-araclar-meteordan-yapilmis',
-  '',
+
   '2017-12-07',
   '01:44:02',
   '2',
@@ -11882,7 +11882,7 @@ const technology = [
   'çıkma',
   'bekleniyor.',
   'https://www.cnnturk.com/teknoloji/iphone-x-ile-yarisiyor',
-  '',
+
   '2017-12-07',
   '07:11:02',
   '2',
@@ -11935,7 +11935,7 @@ const technology = [
   'bilg',
   'yok.',
   'https://www.cnnturk.com/teknoloji/finlandiya-13-3-gb-ile-mobil-internet-sampiyonu',
-  '',
+
   '2017-12-07',
   '08:11:04',
   '2',
@@ -12013,7 +12013,7 @@ const technology = [
   'olarak',
   'ekleyebilirsiniz.',
   'https://www.cnnturk.com/teknoloji/assassins-creed-4-ile-okyanuslara-yelken-acin',
-  '',
+
   '2017-12-07',
   '09:11:05',
   '2',
@@ -12109,7 +12109,7 @@ const technology = [
   'tahmi',
   'ediliyor.',
   'https://www.cnnturk.com/teknoloji/facebooktan-kazanamadiklarini-bitcoinden-kazandilar',
-  '',
+
   '2017-12-07',
   '11:11:03',
   '2',
@@ -12220,7 +12220,7 @@ const technology = [
   'yer',
   'aldı.',
   'https://www.cnnturk.com/teknoloji/45-milyar-abd-dolari-yatirim-yapti',
-  '',
+
   '2017-12-07',
   '12:11:04',
   '2',
@@ -12318,7 +12318,7 @@ const technology = [
   'dergi',
   'yayımlandı.',
   'https://www.ntv.com.tr/teknoloji/en-uzak-kara-delik-kesfedildieqnjmm0m_k2lodvel5g7yq',
-  '',
+
   '2017-12-07',
   '12:24:03',
   '2',
@@ -12441,7 +12441,7 @@ const technology = [
   'radyonom’a',
   'webte www.',
   'https://www.cnnturk.com/bilim-teknoloji/sinema-tutkunlarina-ozel-radyo-d-smart-popcorn-radyo',
-  '',
+
   '2017-12-07',
   '12:55:03',
   '2',
@@ -12516,7 +12516,7 @@ const technology = [
   'bir',
   'pazar.',
   'https://www.cnnturk.com/teknoloji/cin-apple-icin-onemli-bir-potansiyel',
-  '',
+
   '2017-12-07',
   '13:11:06',
   '2',
@@ -12533,52 +12533,52 @@ const technology = [
   'kopya',
   'yarat',
   ' ',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'mon',
   'lisa',
   've',
@@ -12595,118 +12595,118 @@ const technology = [
   'i̇stanbul’da',
   'bir',
   'ara',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'mon',
   'lisa',
   'taslak',
   'nü',
   'olarak',
   'yapıl',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'mon',
   'lisa',
   'çinl',
@@ -12818,7 +12818,7 @@ const technology = [
   'birara',
   'getirildi.',
   'https://www.cnnturk.com/bilim-teknoloji/bilim-insanlari-dna-ile-mona-lisanin-dunyanin-en-kucuk-kopyasini-yaratti',
-  '',
+
   '2017-12-07',
   '13:44:02',
   '2',
@@ -12832,70 +12832,70 @@ const technology = [
   'x',
   'il',
   'yarışıyor',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'face',
   'id',
   'hata',
   'nasıl',
   'düzeltilir',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'yıl',
   'iphone',
   'uygulaması;enlight',
@@ -12913,59 +12913,59 @@ const technology = [
   '10’a',
   'katlayacak',
   'teknoloji',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'türk',
   'yazılımç',
   'appleda',
@@ -12992,52 +12992,52 @@ const technology = [
   'karş',
   'karşı',
   'geliyor',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'katlanabilir',
   'iphone',
   'mu',
@@ -13098,7 +13098,7 @@ const technology = [
   'sell',
   'secondhandsahibinden.',
   'https://www.cnnturk.com/bilim-teknoloji/apple-en-iyiler-listesini-paylasti',
-  '',
+
   '2017-12-07',
   '13:55:05',
   '2',
@@ -13149,10 +13149,10 @@ const technology = [
   'gelişme',
   'devam',
   'ediyor',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'bütün',
   'şart',
   'rağmen',
@@ -13226,7 +13226,7 @@ const technology = [
   'bu',
   'bölgelerde.',
   'https://www.ntv.com.tr/galeri/teknoloji/yeni-baslayanlar-icinbitcoinkullanim-kilavuzu-bitcoinnasil-alinirrvp9apyy_esp_boq_6-chq',
-  '',
+
   '2017-12-07',
   '14:00:04',
   '2',
@@ -13301,7 +13301,7 @@ const technology = [
   'satış',
   'sunulmamıştı.',
   'https://www.cnnturk.com/teknoloji/google-pixel-2-fiyati-600-dolara-dustu',
-  '',
+
   '2017-12-07',
   '14:11:04',
   '2',
@@ -13453,7 +13453,7 @@ const technology = [
   'seçenek',
   'bulunuyor.',
   'https://www.cnnturk.com/teknoloji/apple-yeni-aksesuar-rengini-tanitti',
-  '',
+
   '2017-12-07',
   '15:11:05',
   '2',
@@ -13540,7 +13540,7 @@ const technology = [
   'telefon',
   'kullanacaklar.',
   'https://www.cnnturk.com/teknoloji/vivo-x20-fifa-world-cup-2018-edition-resmi-torenle-tanitildi',
-  '',
+
   '2017-12-08',
   '06:11:03',
   '2',
@@ -13613,7 +13613,7 @@ const technology = [
   'bas',
   'durumda.',
   'https://www.cnnturk.com/teknoloji/google-sozunu-tuttu',
-  '',
+
   '2017-12-08',
   '07:11:08',
   '2',
@@ -13760,7 +13760,7 @@ const technology = [
   'olduk',
   'söyleyebilirim.".',
   'https://www.cnnturk.com/teknoloji/eset-uefi-taramasina-kavustu',
-  '',
+
   '2017-12-08',
   '08:11:06',
   '2',
@@ -13833,7 +13833,7 @@ const technology = [
   'yaptı.',
   '(sabah).',
   'https://www.ntv.com.tr/galeri/teknoloji/alibaba-internetten-otomobil-satacak4zb6rrmyoum63q3kpvhheg',
-  '',
+
   '2017-12-08',
   '09:00:07',
   '2',
@@ -13920,7 +13920,7 @@ const technology = [
   'fiyat',
   'faktörü.',
   'https://www.cnnturk.com/teknoloji/dayaniklilik-ve-pil-omru-konusunda-sinifta-kaldi',
-  '',
+
   '2017-12-08',
   '09:11:03',
   '2',
@@ -13994,10 +13994,10 @@ const technology = [
   'söz',
   'ediliyor.',
   ' ',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'firma',
   'ön',
   'taraf',
@@ -14010,7 +14010,7 @@ const technology = [
   'konumlandır',
   'düşüncesinde.',
   'https://www.cnnturk.com/teknoloji/huawei-p11-cok-iddiali-olacak',
-  '',
+
   '2017-12-08',
   '10:11:04',
   '2',
@@ -14117,23 +14117,23 @@ const technology = [
   'karar',
   'verildi.',
   '  r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.ntv.com.tr/galeri/teknoloji/bitcoinebir-yasak-dahay90iytbza0ihydqmtpd6qq',
-  '',
+
   '2017-12-08',
   '11:00:05',
   '2',

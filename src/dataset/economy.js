@@ -5466,7 +5466,7 @@ const economy = [
   '10a',
   'düşüyor.',
   'https://www.ntv.com.tr/ekonomi/izmirde-suya-yuzde-10-zamslwncpm3duyvsybzdqzd3w',
-  '',
+
   '2017-11-27',
   '21:00:02',
   '1',
@@ -5658,7 +5658,7 @@ const economy = [
   'olma',
   'bekliyor.',
   'https://www.ntv.com.tr/ekonomi/oecd-turkiyenin-buyume-tahminini-yukseltti1yu8uuiz8e-grmbrcxilcq',
-  '',
+
   '2017-11-28',
   '12:00:06',
   '2',
@@ -5757,7 +5757,7 @@ const economy = [
   'söylemişti.',
   ' rr.',
   'https://www.ntv.com.tr/ekonomi/rusyadan-kripto-para-uyarisinyyj7smtdukti1b1kv1neg',
-  '',
+
   '2017-11-28',
   '16:00:02',
   '2',
@@ -5848,7 +5848,7 @@ const economy = [
   'olduk',
   'savunuyor.',
   'https://www.ntv.com.tr/ekonomi/bitcoinden-yeni-rekor-10-bin-dolari-gordu_x9_eazosu-1ltrppbx_da',
-  '',
+
   '2017-11-28',
   '20:00:09',
   '2',
@@ -5944,7 +5944,7 @@ const economy = [
   'dolarlık',
   'markar}rrrr.',
   'https://www.ntv.com.tr/ekonomi/actera-group-gratise-ortakoldu7f9pcnsxleeurkelcub9ua',
-  '',
+
   '2017-11-29',
   '09:00:06',
   '2',
@@ -6128,7 +6128,7 @@ const economy = [
   'görebilecek',
   'dedi.',
   'https://www.ntv.com.tr/ekonomi/yumurta-satisinda-yeni-donemdldywfc_fuqohk24wlmsig',
-  '',
+
   '2017-11-29',
   '11:00:04',
   '2',
@@ -6233,7 +6233,7 @@ const economy = [
   'kon',
   'dedi.',
   'https://www.ntv.com.tr/ekonomi/fedden-bitcoine-rakip-mi-geliyorql2u5ymxuk2szkxdttflrg',
-  '',
+
   '2017-11-29',
   '21:00:05',
   '2',
@@ -6327,7 +6327,7 @@ const economy = [
   'yapılma',
   'gerekmektedir.',
   'https://www.ntv.com.tr/ekonomi/bank-asyanin-iflas-tasfiye-islemlerine-baslandirwnnj43h9eoia11g5oyzkg',
-  '',
+
   '2017-11-30',
   '07:00:06',
   '2',
@@ -6364,7 +6364,7 @@ const economy = [
   'görüyor.',
   'rr.',
   'https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-30-kasim-2017-dolar-euro-fiyatlari6_gc5vq3nku0ywv0ezlnla',
-  '',
+
   '2017-11-30',
   '07:00:07',
   '2',
@@ -6499,7 +6499,7 @@ const economy = [
   'yüz',
   '423’tür.',
   'https://www.ntv.com.tr/ekonomi/dis-ticaret-acigi-ekimde-yuzde-74-artti_jpvow5prk6xpyzodqpfgq',
-  '',
+
   '2017-11-30',
   '08:00:07',
   '2',
@@ -6593,7 +6593,7 @@ const economy = [
   'fiyat',
   '1.',
   'https://www.ntv.com.tr/ekonomi/ceyrek-altin-ne-kadaryejyjwogjkkvu428qk4ufw',
-  '',
+
   '2017-11-30',
   '09:00:05',
   '2',
@@ -7026,7 +7026,7 @@ const economy = [
   'güven',
   'tamdır.',
   'https://www.cnnturk.com/ekonomi/altin/altin-fiyatlari-170-lirayi-gorebilir',
-  '',
+
   '2017-11-30',
   '12:22:46',
   '2',
@@ -7152,23 +7152,23 @@ const economy = [
   'reza',
   'zarrab',
   'açıklamasır					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877075/aktifbank_tan_riza_sarraf_aciklamasi.html',
-  '',
+
   '2017-11-30',
   '15:56:06',
   '2',
@@ -7304,23 +7304,23 @@ const economy = [
   'işle',
   'gerçekleştirilmemiştir.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/876969/halkbank_tan_reza_zarrab_aciklamasi.html',
-  '',
+
   '2017-11-30',
   '15:56:10',
   '2',
@@ -7439,7 +7439,7 @@ const economy = [
   'verilmedik',
   'öğrenildi.',
   'https://www.cnnturk.com/ekonomi/turkiye/akaryakit-istasyonu-ihalesine-son-dakika-iptali',
-  '',
+
   '2017-11-30',
   '16:44:02',
   '2',
@@ -7559,7 +7559,7 @@ const economy = [
   'verilmedik',
   'öğrenildi.',
   'https://www.cnnturk.com/ekonomi/akaryakit-istasyonu-ihalesine-son-dakika-iptali',
-  '',
+
   '2017-11-30',
   '16:44:03',
   '2',
@@ -7814,7 +7814,7 @@ const economy = [
   'indirdik',
   'söyledi.',
   'https://www.ntv.com.tr/ekonomi/halkbanktan-sarraf-aciklamasijpa0g6r7l0out_opy1vd2a',
-  '',
+
   '2017-11-30',
   '18:00:03',
   '2',
@@ -7871,23 +7871,23 @@ const economy = [
   'verdik',
   'iddia',
   'ettir					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877205/ziraat_bankasi_ndan_riza_sarraf_aciklamasi.html',
-  '',
+
   '2017-11-30',
   '18:36:03',
   '2',
@@ -7999,7 +7999,7 @@ const economy = [
   'açıklama',
   'çelişti.',
   'https://www.ntv.com.tr/ekonomi/fedden-dijital-para-aciklamasijbjlasdsze2kjwvxso-8cw',
-  '',
+
   '2017-11-30',
   '20:40:02',
   '2',
@@ -8023,52 +8023,52 @@ const economy = [
   'kazanarak',
   '24.',
   ' ',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'merkez',
   'banka',
   'başkan',
@@ -8078,12 +8078,12 @@ const economy = [
   'katk',
   'sağlayabilir',
   'mesaj',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'verg',
   'reform',
   'beklentisibenzer',
@@ -8124,12 +8124,12 @@ const economy = [
   'gerekçe',
   'yok',
   'spekülatif',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'abdde kişisel',
   'harca',
   'arttıabd’de',
@@ -8173,7 +8173,7 @@ const economy = [
   'alt',
   'kaldı.',
   'https://www.cnnturk.com/ekonomi/dow-jones-tarihi-bir-rekorla-kapandi',
-  '',
+
   '2017-11-30',
   '21:44:02',
   '2',
@@ -8256,7 +8256,7 @@ const economy = [
   'açma',
   'değerlendiriyor.',
   'https://www.cnnturk.com/ekonomi/nobel-odullu-ekonomist-stiglitz-bitcoin-hemen-yasaklanmali',
-  '',
+
   '2017-11-30',
   '23:33:02',
   '2',
@@ -8473,23 +8473,23 @@ const economy = [
   'etmek',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877280/kriz_soylentileri_artti..._2018_daha_zor_gececek.html',
-  '',
+
   '2017-12-01',
   '02:36:02',
   '2',
@@ -8574,7 +8574,7 @@ const economy = [
   'metrekare',
   'seviyesinde.',
   'https://www.cnnturk.com/ekonomi/kozyatagi-carrefour-avm-269-milyon-euroya-satiliyor',
-  '',
+
   '2017-12-01',
   '03:33:02',
   '2',
@@ -8681,7 +8681,7 @@ const economy = [
   'oynayacak',
   'kaydetti.',
   'https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-1-aralik-2017-dolar-euro-fiyatlaridc3l2x4el0cvpav5e8twrw',
-  '',
+
   '2017-12-01',
   '06:32:08',
   '2',
@@ -8761,23 +8761,23 @@ const economy = [
   'devam',
   'ediyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877317/nobel_odullu_ekonomist__bitcoin_bir_balon_hemen_yasaklanmali.html',
-  '',
+
   '2017-12-01',
   '06:45:04',
   '2',
@@ -8868,7 +8868,7 @@ const economy = [
   'edilecek',
   'söyledi.',
   'https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-gune-yatay-basladi-1-aralik-2017',
-  '',
+
   '2017-12-01',
   '07:22:04',
   '2',
@@ -8964,7 +8964,7 @@ const economy = [
   'olarak',
   'gerçekleşti.',
   'https://www.cnnturk.com/ekonomi/tu-rkiye-imalat-pmi-kasimda-52-9a-yukseldi',
-  '',
+
   '2017-12-01',
   '07:44:03',
   '2',
@@ -9030,7 +9030,7 @@ const economy = [
   'sanayi',
   'pmi18.',
   'https://www.cnnturk.com/ekonomi/piyasa-hisse/kuresel-piyasalar-yogun-veri-gundemine-odaklandi',
-  '',
+
   '2017-12-01',
   '07:44:05',
   '2',
@@ -9158,7 +9158,7 @@ const economy = [
   'kâr',
   'sağlamıştı.',
   'https://www.cnnturk.com/ekonomi/turkiye/bankalarin-10-aylik-kari-gecen-yili-gecti',
-  '',
+
   '2017-12-01',
   '08:11:04',
   '2',
@@ -9286,10 +9286,10 @@ const economy = [
   'edilecek',
   'oran',
   'değiştiril',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'spknın',
   'tebliğ',
   'değişiklik',
@@ -9350,7 +9350,7 @@ const economy = [
   'kadar',
   'artırabilir.',
   'https://www.cnnturk.com/ekonomi/turkiye/halka-arzlarda-yerli-yatirimci-tahsis-orani-dusuruldu',
-  '',
+
   '2017-12-01',
   '08:22:03',
   '2',
@@ -9471,7 +9471,7 @@ const economy = [
   'di',
   'konuştu.',
   'https://www.cnnturk.com/ekonomi/turkiye/son-dakika-kasim-ayi-ihracat-rakami-aciklandi',
-  '',
+
   '2017-12-01',
   '09:33:06',
   '2',
@@ -9540,7 +9540,7 @@ const economy = [
   'konum',
   'bulunuyor.',
   'https://www.ntv.com.tr/ekonomi/bank-of-chinaya-turkiye-icin-lisans-ciktiiuvv3jwtmk609kpegpx-oa',
-  '',
+
   '2017-12-01',
   '11:16:02',
   '2',
@@ -9642,7 +9642,7 @@ const economy = [
   'yer',
   'verildi.',
   'https://www.cnnturk.com/ekonomi/dev-banka-259-subesini-birden-kapatiyor',
-  '',
+
   '2017-12-01',
   '11:44:04',
   '2',
@@ -9714,7 +9714,7 @@ const economy = [
   'başlayabilir',
   'dedi.',
   'https://www.cnnturk.com/ekonomi/sirketler/cinli-dev-banka-turkiyede-hizmete-basliyor',
-  '',
+
   '2017-12-01',
   '12:22:04',
   '2',
@@ -9795,10 +9795,10 @@ const economy = [
   'ifade',
   'yer',
   'verildi:',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'üye',
   'sendika',
   'emanet',
@@ -9867,7 +9867,7 @@ const economy = [
   'talep',
   'etmişti.',
   'https://www.cnnturk.com/ekonomi/metal-iscisinin-tis-surecinde-uyusmazlik',
-  '',
+
   '2017-12-01',
   '12:44:48',
   '2',
@@ -9914,7 +9914,7 @@ const economy = [
   'yüz',
   '0.',
   'https://www.cnnturk.com/ekonomi/turkiye/istanbulun-kasim-enflasyonu-aciklandi',
-  '',
+
   '2017-12-01',
   '12:44:49',
   '2',
@@ -9992,7 +9992,7 @@ const economy = [
   'gip',
   'gösterirsiniz.',
   'https://www.cnnturk.com/ekonomi/iste-hayat/is-gorusmesinde-asla-soylenmeyecekler',
-  '',
+
   '2017-12-01',
   '14:00:02',
   '2',
@@ -10099,7 +10099,7 @@ const economy = [
   'bulunmadık',
   'söyledi.',
   'https://www.ntv.com.tr/dunya/sangay-isbirligi-orgutunde-ekonomik-is-birligini-arttirmaliyizm4c_uijxrk-blimnoeqwlg',
-  '',
+
   '2017-12-01',
   '15:24:02',
   '2',
@@ -10146,23 +10146,23 @@ const economy = [
   'iyi',
   'gidiyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.ntv.com.tr/ekonomi/vakifbanktan-sarraf-aciklamasiksfxao9vdesfbhaj65iixg',
-  '',
+
   '2017-12-01',
   '16:00:04',
   '2',
@@ -10267,7 +10267,7 @@ const economy = [
   'bulunmadık',
   'söyledi.',
   'https://www.cnnturk.com/ekonomi/turkiye/son-dakika-ciftcileri-sevindirecek-haber',
-  '',
+
   '2017-12-01',
   '17:00:02',
   '2',
@@ -10376,7 +10376,7 @@ const economy = [
   'değil',
   'dedi.',
   'https://www.cnnturk.com/ekonomi/flynnin-itirafi-dolari-ve-abd-hisselerini-dusurdu',
-  '',
+
   '2017-12-01',
   '20:00:02',
   '2',
@@ -10444,23 +10444,23 @@ const economy = [
   'ayrılma',
   'öngörülmüştü.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877984/ab_den_insan_haklari_sarti.html',
-  '',
+
   '2017-12-02',
   '02:45:03',
   '2',
@@ -10473,7 +10473,7 @@ const economy = [
   've',
   'mal',
   'belgelerinde:',
-  '',
+
   '‘1',
   'sterlinlik’',
   'şirk',
@@ -10580,23 +10580,23 @@ const economy = [
   'ayan',
   'yapmıştı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878008/tesvik_krali_ayan..._adi_wikileaks_ve_malta_belgelerinde____1_sterlinlik__sirketin_tek_yonetim_kurulu_uyesi.html',
-  '',
+
   '2017-12-02',
   '03:09:02',
   '2',
@@ -10713,23 +10713,23 @@ const economy = [
   'ayan',
   'yapmıştı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878008/tesvik_krali_ayan...__1_sterlinlik__sirketin_tek_yonetim_kurulu_uyesi__adi_malta_belgelerinde.html',
-  '',
+
   '2017-12-02',
   '04:09:03',
   '2',
@@ -10830,23 +10830,23 @@ const economy = [
   'kalk',
   'zaten.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/877970/uluslararasi_seffaflik_dernegi_baskani_ozarslan__yolsuzluga_karsi_ortak_ses_sart.html',
-  '',
+
   '2017-12-02',
   '04:09:06',
   '2',
@@ -10964,7 +10964,7 @@ const economy = [
   'kayıt',
   'geçti.',
   'https://www.ntv.com.tr/ekonomi/kasimda-en-fazla-domatesin-fiyati-arttign8x4jkmjks3dv2av9wtnq',
-  '',
+
   '2017-12-02',
   '13:32:03',
   '2',
@@ -11213,23 +11213,23 @@ const economy = [
   'di',
   'konuştu.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878426/kanserden_tansiyona..._yuzlerce_ilaca_gorulmemis_zam.html',
-  '',
+
   '2017-12-02',
   '16:27:03',
   '2',
@@ -11328,23 +11328,23 @@ const economy = [
   'yin',
   'chp.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878428/ekonomi_bakani_zeybekci_den_doviz_kurlarina_iliskin_aciklama.html',
-  '',
+
   '2017-12-02',
   '16:45:03',
   '2',
@@ -11452,7 +11452,7 @@ const economy = [
   'sıkıntı',
   'ulaşmamıştır.',
   'https://www.ntv.com.tr/ekonomi/saglik-bakanligindan-ilac-fiyatlarina-iliskin-aciklamafl3fidu8meizjwrbkhlfba',
-  '',
+
   '2017-12-02',
   '17:16:02',
   '2',
@@ -11534,23 +11534,23 @@ const economy = [
   'kamuoy',
   'açıklanma',
   'gerekmektedirr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878523/altinda_rekor_alis.html',
-  '',
+
   '2017-12-02',
   '23:18:06',
   '2',
@@ -11618,23 +11618,23 @@ const economy = [
   'sayı',
   '35.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878530/k_r_artti__istihdam_azaldi.html',
-  '',
+
   '2017-12-02',
   '23:45:07',
   '2',
@@ -11685,23 +11685,23 @@ const economy = [
   'taraf',
   'çözülüyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/878527/metalde_adim_adim_greve_dogru.html',
-  '',
+
   '2017-12-02',
   '23:45:08',
   '2',
@@ -11744,12 +11744,12 @@ const economy = [
   '15',
   'milyon',
   'ulaş',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'her',
   'biri',
   'kot',
@@ -11788,12 +11788,12 @@ const economy = [
   '11',
   'milyar',
   'lira',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'piyasa',
   'fotoğraf',
   'çekilecekyetki',
@@ -11887,7 +11887,7 @@ const economy = [
   'bilgi',
   'verdiler.',
   'https://www.cnnturk.com/ekonomi/turkiye/sgkya-meslegini-bildirmeyene-ceza-geliyor',
-  '',
+
   '2017-12-03',
   '07:22:03',
   '2',
@@ -12150,7 +12150,7 @@ const economy = [
   '10’a',
   'çekildi.',
   'https://www.cnnturk.com/ekonomi/turkiye/milyar-dolarlik-halka-arzlar-bekliyoruz',
-  '',
+
   '2017-12-03',
   '07:44:03',
   '2',
@@ -12344,23 +12344,23 @@ const economy = [
   'di',
   'konuştu.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879086/eski_enerji_bakani_taner_yildiz__iran_a_ambargoyu_turkiye_degil_avrupa_ulkeleri_deldi.html',
-  '',
+
   '2017-12-03',
   '18:36:02',
   '2',
@@ -12420,23 +12420,23 @@ const economy = [
   'yüz',
   '27.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879099/yeni_yasalar_da_kadini_vurdu.html',
-  '',
+
   '2017-12-04',
   '03:09:06',
   '2',
@@ -12563,10 +12563,10 @@ const economy = [
   'orta',
   'koyuyor.',
   ' ',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'alt',
   'endeks',
   'lira',
@@ -12612,7 +12612,7 @@ const economy = [
   'geçme',
   'gerekiyor.',
   'https://www.cnnturk.com/ekonomi/dunya/prof-hanke-turk-lirasi-kurtarmak-icin-altina-endeksli-para-birimine-gecilmesi-gerek',
-  '',
+
   '2017-12-04',
   '03:55:03',
   '2',
@@ -12695,7 +12695,7 @@ const economy = [
   'teminat',
   'içermiyor.',
   'https://www.ntv.com.tr/ekonomi/yeni-yildan-itibaren-sigortali-olmezse-primleri-iade-edilecekebuhca2dukgidjm80yvt-a',
-  '',
+
   '2017-12-04',
   '05:24:01',
   '2',
@@ -12737,10 +12737,10 @@ const economy = [
   'yabanç',
   'sermaye',
   'çekebilir',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'mahmut',
   'ünl',
   'türki',
@@ -12793,7 +12793,7 @@ const economy = [
   'otur',
   'durumda.',
   'https://www.cnnturk.com/ekonomi/turkiye/cin-guney-kore-japonya-asyali-yatirimcilarin-turkiye-istahi-artti',
-  '',
+
   '2017-12-04',
   '06:33:03',
   '2',
@@ -13014,7 +13014,7 @@ const economy = [
   'bölge',
   'gerçekleşti.',
   'https://www.cnnturk.com/ekonomi/turkiye/kasim-ayi-enflasyon-orani-aciklandi',
-  '',
+
   '2017-12-04',
   '07:11:03',
   '2',
@@ -13154,7 +13154,7 @@ const economy = [
   'etme',
   'gerekir.',
   'https://www.ntv.com.tr/ekonomi/teskten-yilbasi-alisverisi-uyarisityovkualmka4do1bwfuxzg',
-  '',
+
   '2017-12-04',
   '07:24:02',
   '2',
@@ -13194,23 +13194,23 @@ const economy = [
   'yüz',
   '12.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879242/enflasyon_rakamlari_aciklandi..._2003_ten_bu_yana_en_yuksek_seviyeye_cikti.html',
-  '',
+
   '2017-12-04',
   '07:36:02',
   '2',
@@ -13308,7 +13308,7 @@ const economy = [
   '1104',
   'oldu .',
   'https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-haftaya-dususle-basladi-4-aralik-2017',
-  '',
+
   '2017-12-04',
   '07:44:04',
   '2',
@@ -13407,7 +13407,7 @@ const economy = [
   'bin',
   '11 .',
   'https://www.cnnturk.com/ekonomi/elektrikte-serbest-tuketici-sayisi-kasimda-artti',
-  '',
+
   '2017-12-04',
   '07:44:05',
   '2',
@@ -13484,7 +13484,7 @@ const economy = [
   'devam',
   'edeceğiz.',
   'https://www.ntv.com.tr/ekonomi/mehmet-simsek-araliktan-itibaren-kalici-dusus-sureci-baslayacaktbddfwekaksylbzy589jlq',
-  '',
+
   '2017-12-04',
   '07:56:05',
   '2',
@@ -13557,7 +13557,7 @@ const economy = [
   'giriş',
   'yapabilirsiniz.',
   'https://www.cnnturk.com/ekonomi/turkiye/e-devlet-e-bordro-sorgulama-nasil-yapilir',
-  '',
+
   '2017-12-04',
   '08:11:04',
   '2',
@@ -13700,7 +13700,7 @@ const economy = [
   'ittik',
   'vurguladı.',
   'https://www.cnnturk.com/ekonomi/sirketler/global-ozel-sermaye-fonlari-15-trilyon-dolari-yonetecek',
-  '',
+
   '2017-12-04',
   '08:22:06',
   '2',
@@ -13805,7 +13805,7 @@ const economy = [
   'olacağım’',
   'yaklaşımı.',
   'https://www.cnnturk.com/ekonomi/sigortali-olmezse-prim-iade',
-  '',
+
   '2017-12-04',
   '08:33:04',
   '2',
@@ -13844,12 +13844,12 @@ const economy = [
   'enflasyon',
   'oran',
   'açıklan',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'piya',
   'baş',
   'abddek',
@@ -13910,7 +13910,7 @@ const economy = [
   'ifade',
   'ediyor.',
   'https://www.cnnturk.com/ekonomi/turkiye/dolar-tl-enflasyon-sonrasi-geriledi',
-  '',
+
   '2017-12-04',
   '08:44:05',
   '2',
@@ -14001,10 +14001,10 @@ const economy = [
   'inşaat',
   'tamamen',
   'bitirecek',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'arslan',
   'i̇stanbulun',
   'her',
@@ -14105,7 +14105,7 @@ const economy = [
   'dah',
   'sabredecekler.',
   'https://www.cnnturk.com/ekonomi/bu-hatta-gunde-1-5-milyon-yolcu-tasinacak',
-  '',
+
   '2017-12-04',
   '08:55:05',
   '2',
@@ -14204,23 +14204,23 @@ const economy = [
   'belirtiliyor.',
   ' ',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879333/air_france__istanbul_ucuslarini_durduruyor.html',
-  '',
+
   '2017-12-04',
   '09:09:03',
   '2',
@@ -14284,7 +14284,7 @@ const economy = [
   'gıda',
   'geliyor.',
   'https://www.cnnturk.com/ekonomi/turkiye/simsek-enflasyonda-araliktan-itibaren-kalici-dusus-baslayacak',
-  '',
+
   '2017-12-04',
   '09:44:02',
   '2',
@@ -14383,7 +14383,7 @@ const economy = [
   'tar',
   'proje',
   'toplantı',
-  '',
+
   'enflasyon',
   'rakam',
   'açıklandık',
@@ -14396,23 +14396,23 @@ const economy = [
   'ağr',
   'gidiyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879372/akp_de_kafalar_karisik..._enflasyonun_nedeni_domates_mi_degil_mi_.html',
-  '',
+
   '2017-12-04',
   '10:09:04',
   '2',
@@ -14489,7 +14489,7 @@ const economy = [
   'puan',
   'indi.',
   'https://www.cnnturk.com/ekonomi/dunya/euro-bolgesinde-yatirimci-guveni-zirveden-dondu',
-  '',
+
   '2017-12-04',
   '11:44:05',
   '2',
@@ -14635,23 +14635,23 @@ const economy = [
   'iptal',
   'etmişti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.ntv.com.tr/ekonomi/hamsinin-kilogrami-20-liraya-yukseldisjvc3gvuaksxhfijnvgmhq',
-  '',
+
   '2017-12-04',
   '12:00:03',
   '2',
@@ -14744,7 +14744,7 @@ const economy = [
   'hitaben',
   'söyledim.',
   'https://www.cnnturk.com/ekonomi/turkiye/erdogan-isteyen-herkesin-yurtdisina-parasini-cikarma-hakki-var',
-  '',
+
   '2017-12-04',
   '12:00:04',
   '2',
@@ -14788,12 +14788,12 @@ const economy = [
   'yıl',
   'son',
   'mesaj',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'başbakan',
   'yıldır',
   'taşeron',
@@ -14935,7 +14935,7 @@ const economy = [
   'ifade',
   'kullanmıştı.',
   'https://www.cnnturk.com/ekonomi/turkiye/hukumetten-taseron-isci-aciklamasi',
-  '',
+
   '2017-12-04',
   '13:22:07',
   '2',
@@ -15060,7 +15060,7 @@ const economy = [
   'izlenme',
   'benimsiyor.',
   'https://www.ntv.com.tr/ekonomi/euro-grubunun-yeni-baskani-secildi-gybcojnqe6w41jgqyblya',
-  '',
+
   '2017-12-04',
   '17:48:05',
   '2',
@@ -15114,20 +15114,20 @@ const economy = [
   'olarak',
   'gerçekleşti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879827/enflasyon_tarihi_zirveyi_gordu.html',
   'küresel',
@@ -15163,10 +15163,10 @@ const economy = [
   'hizmet',
   'sektör',
   'pmi',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   '12.',
   '00',
   'avro',
@@ -15238,10 +15238,10 @@ const economy = [
   'artır',
   'beklenti',
   'yüksel',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'analist',
   'dün',
   'açıklanan',
@@ -15345,7 +15345,7 @@ const economy = [
   'dil',
   'getirdi.',
   'https://www.cnnturk.com/ekonomi/turkiye/dolar-ne-kadar-5-aralik-2017',
-  '',
+
   '2017-12-05',
   '07:11:04',
   '2',
@@ -15454,7 +15454,7 @@ const economy = [
   'geldik',
   'kaydetti.',
   'https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-gune-yukselisle-basladi-5-aralik-2017',
-  '',
+
   '2017-12-05',
   '07:22:03',
   '2',
@@ -15520,23 +15520,23 @@ const economy = [
   'tepki',
   'verecektir.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/879907/merkez_bankasi_ndan_dolar_aciklamasi.html',
-  '',
+
   '2017-12-05',
   '07:54:02',
   '2',
@@ -15644,7 +15644,7 @@ const economy = [
   've',
   'hikmet',
   'sahibidir.',
-  '',
+
   '50',
   'milyon',
   'euro',
@@ -15785,23 +15785,23 @@ const economy = [
   'davutok',
   'erdoğan’a',
   'direnemedir					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'https://www.ntv.com.tr/galeri/ekonomi/erdoganin-onayladigi-torba-yasa-resmi-gazetede-iste-2018in-mtv-oranlarico2gifyub0g5cqzaq8dcba',
-  '',
+
   '2017-12-05',
   '08:00:04',
   '2',
@@ -16007,7 +16007,7 @@ const economy = [
   'kapsam',
   'alındı.',
   'https://www.ntv.com.tr/ekonomi/bakan-tufenkciden-saadet-zinciri-uyarisivfehvwb2-egulzqecwc9kq',
-  '',
+
   '2017-12-05',
   '08:48:03',
   '2',
@@ -16095,10 +16095,10 @@ const economy = [
   'grup',
   'son',
   'dur',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'geçen',
   'sezon',
   'uefa',
@@ -16122,7 +16122,7 @@ const economy = [
   'dur',
   'bulunuyor.',
   'https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-5-aralik-2017-dolar-fiyatlarih8cnkv7_deyljj7jdi6s_q',
-  '',
+
   '2017-12-05',
   '09:00:05',
   '2',
@@ -16264,7 +16264,7 @@ const economy = [
   'tl',
   'olarak',
   'gerçekleş',
-  '',
+
   'dedi.',
   'yurt',
   'dış',
@@ -16653,7 +16653,7 @@ const economy = [
   'görüldük',
   'anla',
   'özcan',
-  '',
+
   'vakıfbank',
   'ödül',
   '2016’nın',
@@ -16721,7 +16721,7 @@ const economy = [
   'al',
   'dedi.',
   'https://www.cnnturk.com/ekonomi/sirketler/vakifbank-yeni-hedeflerini-acikladi',
-  '',
+
   '2017-12-05',
   '09:11:08',
   '2',
@@ -16787,10 +16787,10 @@ const economy = [
   'dolar',
   'kadar',
   'çıkt',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'yılbaş',
   'bu',
   'yan',
@@ -16835,7 +16835,7 @@ const economy = [
   'zarar',
   'görecek.',
   'https://www.cnnturk.com/ekonomi/dunya/bitcoin-icin-bir-uyari-daha-tehlikeli-bir-balon',
-  '',
+
   '2017-12-05',
   '09:33:02',
   '2',
@@ -16925,7 +16925,7 @@ const economy = [
   'civar',
   'öngörülüyor.',
   'https://www.cnnturk.com/ekonomi/turkiye/merkez-2018-yol-haritasini-acikladi',
-  '',
+
   '2017-12-05',
   '09:55:03',
   '2',
@@ -17087,7 +17087,7 @@ const economy = [
   'arzuladık',
   'aktarıldı.',
   'https://www.cnnturk.com/ekonomi/turkiye/dogalgazda-kritik-gorusmeler-suruyor',
-  '',
+
   '2017-12-05',
   '10:00:02',
   '2',
@@ -17180,23 +17180,23 @@ const economy = [
   'dhmi̇’ye',
   'sundu.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '	r					r				.',
   'http://www.cumhuriyet.com.tr/haber/ekonomi/880031/thy__ucuncu_havalimanina_tasinmak_istemiyor.html',
-  '',
+
   '2017-12-05',
   '10:00:02',
   '2',
@@ -17515,7 +17515,7 @@ const economy = [
   'yaklaşık',
   '2.',
   'https://www.cnnturk.com/ekonomi/sirketler/borsa-istanbulda-gong-kerevitas-icin-caldi',
-  '',
+
   '2017-12-05',
   '11:44:04',
   '2',
@@ -17529,13 +17529,13 @@ const economy = [
   'işçi',
   'kadro',
   'açıklama',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
   'merkez',
   'yönet',
   'genel',
@@ -17635,7 +17635,7 @@ const economy = [
   'de',
   'unutmadık.',
   'https://www.cnnturk.com/ekonomi/turkiye/taseron-duzenlemesinin-detaylarini-anlatti',
-  '',
+
   '2017-12-05',
   '11:55:05',
   '2',
@@ -17812,7 +17812,7 @@ const economy = [
   'öngörü',
   'bulundu.',
   'https://www.cnnturk.com/ekonomi/turkiye/buyumede-cift-hane-beklentisi',
-  '',
+
   '2017-12-05',
   '12:22:03',
   '2',
@@ -17951,7 +17951,7 @@ const economy = [
   'di',
   'konuştu.',
   'https://www.cnnturk.com/ekonomi/sirketler/atlasglobal-stratejik-ortakliklari-degerlendirebiliriz',
-  '',
+
   '2017-12-05',
   '12:22:04',
   '2',

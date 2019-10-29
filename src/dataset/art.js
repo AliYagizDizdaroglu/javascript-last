@@ -882,7 +882,7 @@ const art = [
   '2017-11-26',
   '15:00:03,',
   '2,',
-  '1),',
+  '1,',
   'Kültür',
   'Bakanlığından',
   'özel',
@@ -1040,7 +1040,7 @@ const art = [
   '2017-11-28',
   '12:00:02,',
   '2,',
-  '2),',
+  '2,',
   'Çin',
   'sineması',
   'Randevu',
@@ -1059,9 +1059,9 @@ const art = [
   'Sinemasına',
   'odaklanıyor.',
   'CRI',
-  '(China',
+  'China',
   'Radio',
-  'International)',
+  'International',
   'iş',
   'birliğiyle',
   'gerçekleştirilen',
@@ -1252,8 +1252,8 @@ const art = [
   'atan',
   'Emily',
   'Tang',
-  '(Xiaobai',
-  'Tang)',
+  'Xiaobai',
+  'Tang',
   '2012',
   'yapımı',
   'üçüncü',
@@ -1405,7 +1405,7 @@ const art = [
   'gerçekleştirilecek.Çin',
   'Uluslararası',
   'Radyosu',
-  '(CRI)',
+  'CRI',
   've',
   'Bahçeşehir',
   'Üniversitesi',
@@ -1439,7 +1439,7 @@ const art = [
   '2017-11-28',
   '13:00:04,',
   '2,',
-  '1),',
+  '1,',
   'Geçmişteki',
   'Sır',
   'filminin',
@@ -1544,7 +1544,7 @@ const art = [
   '2017-11-29',
   '15:00:06,',
   '2,',
-  '0),',
+  '0,',
   'Çağdaş',
   'Sanat',
   'Buluşmaları',
@@ -1788,7 +1788,7 @@ const art = [
   '2017-11-29',
   '18:00:05,',
   '2,',
-  '0),',
+  '0,',
   'Oscar',
   'And',
   'The',
@@ -1911,7 +1911,7 @@ const art = [
   '2017-11-30',
   '12:00:02,',
   '2,',
-  '0),',
+  '0,',
   'Aydın',
   'Doğan',
   'Uluslararası',
@@ -1995,7 +1995,7 @@ const art = [
   '2017-11-30',
   '19:55:04,',
   '2,',
-  '1),',
+  '1,',
   'Anadolu’ya',
   'Zeki',
   'Müren',
@@ -2142,7 +2142,7 @@ const art = [
   '2017-12-01',
   '09:48:06,',
   '2,',
-  '1),',
+  '1,',
   'Arzu',
   'Tramvayı’na',
   'ilk',
@@ -2250,10 +2250,10 @@ const art = [
   'Hollywood’a',
   'bir',
   'başyapıt',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'Tiyatro',
   'tarihi',
   'için',
@@ -2330,7 +2330,7 @@ const art = [
   '2017-12-01',
   '09:55:06,',
   '2,',
-  '1),',
+  '1,',
   'Vapurda',
   'müzik',
   'yaptığım',
@@ -2576,7 +2576,7 @@ const art = [
   '2017-12-01',
   '12:24:02,',
   '2,',
-  '0),',
+  '0,',
   'Bu',
   'imzada',
   'sanat',
@@ -2739,7 +2739,7 @@ const art = [
   've',
   'Dayanışma',
   'Derneğine',
-  '(ÖÇED)',
+  'ÖÇED',
   'eğitim',
   'bursu',
   'olarak',
@@ -2792,12 +2792,12 @@ const art = [
   '2017-12-02',
   '07:16:02,',
   '2,',
-  '0),',
+  '0,',
   'Haftanın',
   'Filmleri',
-  '(1',
+  '1',
   'Aralık',
-  '2017),',
+  '2017,',
   'Bakırköy,',
   'Osmaniye',
   'Mahallesi,',
@@ -2890,7 +2890,7 @@ const art = [
   '2017-12-02',
   '09:00:03,',
   '2,',
-  '3),',
+  '3,',
   'Yenilmezler:',
   'Sonsuzluk',
   'Savaşından',
@@ -2901,24 +2901,24 @@ const art = [
   've',
   'zılgıtlar',
   'çalınarak,',
-  '',
+
   'Tahir',
   'Elçi',
   'ölümsüzdür,',
   'Tahir',
   'Elçi',
   'onurumuzdur,',
-  '',
+
   'Hepimiz',
   'Tahiriz',
   'öldürmekle',
   'bitmeyiz,',
-  '',
+
   'Katil',
   'devlet',
   'hesap',
   'verecek,',
-  '',
+
   'Seni',
   'unutmayacağız,',
   'sloganları',
@@ -2937,7 +2937,7 @@ const art = [
   'şöyle',
   'devam',
   'etti,',
-  '',
+
   'Soruşturmanın',
   'eksik',
   'yürütüldüğünü',
@@ -2949,7 +2949,7 @@ const art = [
   'şöyle',
   'devam',
   'etti:',
-  '',
+
   'Bir',
   'barış',
   'elçisiydi.',
@@ -2962,7 +2962,7 @@ const art = [
   'Uğur',
   'Çağal',
   'da,',
-  '',
+
   'Tahir',
   'Elçiyi',
   'rahmetle',
@@ -2970,27 +2970,27 @@ const art = [
   'özlemle',
   'anıyorum.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/sanat/yenilmezler-sonsuzluk-savasindan-rekor,jNI697zSxkKUWbSZuJBDIg,',
   ',',
   '2017-12-02',
   '12:00:04,',
   '2,',
-  '0),',
+  '0,',
   'Nüfusunun',
   '70',
   'katını',
@@ -3006,7 +3006,7 @@ const art = [
   've',
   'Kültür',
   'Örgütünce',
-  '(UNESCO)',
+  'UNESCO',
   'Dünya',
   'Mirası',
   'Listesine',
@@ -3125,7 +3125,7 @@ const art = [
   '2017-12-02',
   '12:16:02,',
   '2,',
-  '1),',
+  '1,',
   'Erzurumda',
   'antik',
   'yerleşim',
@@ -3231,7 +3231,7 @@ const art = [
   '2017-12-02',
   '12:16:03,',
   '2,',
-  '1),',
+  '1,',
   'Emma',
   'Shapplin',
   've',
@@ -3280,7 +3280,6 @@ const art = [
   'çok',
   'su',
   'kaldırır.',
-  '',
   'Bu',
   'arada',
   'Akşener’in',
@@ -3296,27 +3295,27 @@ const art = [
   'da',
   'dikkat',
   'çekti. r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/emma-shapplin-ve-husnu-senlendiriciden-muzik-ziyafeti,4DpMHV9l-kGmtXMrZSFMxA,',
   ',',
   '2017-12-02',
   '16:00:07,',
   '2,',
-  '5),',
+  '5,',
   'Cem',
   'fantastikten',
   'vazgeçerse',
@@ -3327,12 +3326,12 @@ const art = [
   'Hazard',
   'ile',
   'güldü',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Süper',
   'Toto',
   'Süper',
@@ -3394,7 +3393,7 @@ const art = [
   '2017-12-02',
   '18:00:04,',
   '2,',
-  '0),',
+  '0,',
   'Gülse',
   'Birselin',
   'yeni',
@@ -3498,27 +3497,27 @@ const art = [
   'de',
   'konuşuluyor.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/878468/Gulse_Birsel_in_yeni_dizisinde_surpriz_oyuncu.html,',
   ',',
   '2017-12-02',
   '18:18:03,',
   '2,',
-  '2),',
+  '2,',
   'Sanatçı',
   'Genco',
   'Erkal:',
@@ -3545,7 +3544,7 @@ const art = [
   'de',
   'görmüyorlar',
   'yani.',
-  '',
+
   '-Bir',
   'yandan',
   'da',
@@ -3567,7 +3566,7 @@ const art = [
   '2017-12-02',
   '23:54:11,',
   '2,',
-  '0),',
+  '0,',
   'Google',
   'Playden',
   '2017de',
@@ -3637,10 +3636,10 @@ const art = [
   'Yeni',
   'Zelanda',
   'Doları',
-  '(yaklaşık',
+  'yaklaşık',
   '690',
   'ABD',
-  'doları)',
+  'doları',
   'ödül',
   'vadetmişti.',
   'Yetkilileri,',
@@ -3671,7 +3670,7 @@ const art = [
   '2017-12-03',
   '05:00:08,',
   '2,',
-  '0),',
+  '0,',
   '150',
   'yıllık',
   'kamançasıyla',
@@ -3812,7 +3811,7 @@ const art = [
   '2017-12-03',
   '07:32:02,',
   '2,',
-  '0),',
+  '0,',
   'Bir',
   'kitap',
   'okuyup',
@@ -3921,7 +3920,7 @@ const art = [
   '2017-12-04',
   '08:55:03,',
   '2,',
-  '6),',
+  '6,',
   'Bollywoodun',
   'efsane',
   'ismi',
@@ -3948,11 +3947,11 @@ const art = [
   'aldı.',
   'Kariyerine',
   'Sangram',
-  '(1950)',
+  '1950',
   've',
   'Dana',
   'Paani',
-  '(1953)',
+  '1953',
   'gibi',
   'ticari',
   'filmlerde',
@@ -3999,10 +3998,10 @@ const art = [
   '2017-12-04',
   '18:56:02,',
   '2,',
-  '0),',
+  '0,',
   'Atlas',
   'dergisinden',
-  '',
+
   'Avrupa’dan',
   'Anadolu’ya',
   '20',
@@ -4142,7 +4141,7 @@ const art = [
   '2017-12-05',
   '10:00:05,',
   '2,',
-  '0),',
+  '0,',
   'Aile',
   'Arasında',
   'kalmasın!,',
@@ -4232,7 +4231,7 @@ const art = [
   '2017-12-05',
   '11:00:03,',
   '2,',
-  '0),',
+  '0,',
   'En',
   'az',
   'senin',
@@ -4285,7 +4284,7 @@ const art = [
   '2017-12-05',
   '13:55:05,',
   '2,',
-  '1),',
+  '1,',
   'Toplumsal',
   'Tarihte',
   'konu',
@@ -4302,12 +4301,12 @@ const art = [
   'Aliyeyi',
   'kapağa',
   'taşıdı',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Edhem',
   'Eldem',
   'adalet',
@@ -4328,12 +4327,12 @@ const art = [
   'kaderini',
   'kapağa',
   'taşıdı',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Nadir',
   'Özbek,',
   'Osmanlıdan',
@@ -4447,7 +4446,7 @@ const art = [
   '2017-12-05',
   '14:44:03,',
   '2,',
-  '14),',
+  '14,',
   'Usta',
   'sanatçı',
   'Selami',
@@ -4506,27 +4505,27 @@ const art = [
   'olduğu',
   'öğrenildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/turkiye/880674/Usta_sanatci_Selami_Sahin_hastaneye_kaldirildi.html,',
   ',',
   '2017-12-06',
   '08:45:03,',
   '2,',
-  '0),',
+  '0,',
   'Ünlü',
   'Fransız',
   'şarkıcı',
@@ -4650,7 +4649,7 @@ const art = [
   '2017-12-06',
   '08:55:03,',
   '2,',
-  '0),',
+  '0,',
   'Gezici',
   'Festivalin',
   'durağı:',
@@ -4746,13 +4745,13 @@ const art = [
   '2017-12-06',
   '15:00:03,',
   '2,',
-  '0),',
+  '0,',
   'İlk',
   'bakışta',
   'yanıltan',
   'fotoğraflar',
-  '(Photoshop',
-  'yok),',
+  'Photoshop',
+  'yok,',
   'Kaya:',
   'Miktar',
   'az,',
@@ -4761,12 +4760,12 @@ const art = [
   'yemek',
   'daha',
   'doğru',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   '‘’',
   'Birçok',
   'sistemik',
@@ -4782,10 +4781,10 @@ const art = [
   'ise',
   'şöyle',
   'anlattı:',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   '‘’Tüp',
   'mide',
   'ameliyatı',
@@ -4817,12 +4816,12 @@ const art = [
   'olmadan',
   'yemek',
   'yiyoruz',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Ameliyatta',
   'midenin',
   'yüzde',
@@ -4856,7 +4855,7 @@ const art = [
   'verebileceklerini',
   ' vurgulayan',
   ' Karadeniz,',
-  '',
+
   'Obeziteye',
   'eşlik',
   'eden',
@@ -4886,7 +4885,7 @@ const art = [
   '2017-12-06',
   '15:00:09,',
   '2,',
-  '0),',
+  '0,',
   'Şehir',
   'Tiyatrolarından',
   '17',
@@ -4966,13 +4965,13 @@ const art = [
   '2017-12-06',
   '23:00:06,',
   '2,',
-  '2),',
+  '2,',
   'Ahmet',
   'Aslan',
   'Artı',
   'Sahnede',
-  '(Sanat',
-  'takvimi),',
+  'Sanat',
+  'takvimi,',
   ' ',
   'Türkiye',
   'Büyük',
@@ -5123,13 +5122,13 @@ const art = [
   '2017-12-06',
   '23:00:08,',
   '2,',
-  '1),',
+  '1,',
   '‘Damdaki',
   'Kemancı’',
   'Zorluda',
-  '(İlk',
+  'İlk',
   'yerli',
-  'müzikal),',
+  'müzikal,',
   'Yunanistan',
   'da',
   'darbelerden',
@@ -5172,7 +5171,7 @@ const art = [
   '2017-12-07',
   '02:00:03,',
   '2,',
-  '1),',
+  '1,',
   'Kuş',
   'dili',
   'UNESCO',
@@ -5284,7 +5283,7 @@ const art = [
   '2017-12-07',
   '07:16:05,',
   '2,',
-  '1),',
+  '1,',
   'Yalın,',
   'yine,',
   'yeni',
@@ -5380,7 +5379,7 @@ const art = [
   '2017-12-07',
   '08:32:05,',
   '2,',
-  '0),',
+  '0,',
   'İskender',
   'Paydaş:',
   'İdeallerim',
@@ -5661,7 +5660,7 @@ const art = [
   '2017-12-07',
   '11:40:03,',
   '2,',
-  '0),',
+  '0,',
   'İşe',
   'Yarar',
   'Bir',
@@ -5771,21 +5770,21 @@ const art = [
   'FRAGMANI',
   '-',
   'İZLErrdataLayer.',
-  'push(r{rplatform:',
+  'pushr{rplatform:',
   'Responsive,rcategory1:',
   'Sanat,rcategory2:',
-  '',
+
   '&#8220İşe',
   'Yarar',
   'Bir',
   'Şey&#8221',
-  'fragmanır})rrrr.,',
+  'fragmanır}rrrr.,',
   'https://www.ntv.com.tr/sanat/ise-yarar-bir-sey-ekibi-gezici-festivale-konuk-oldu,D1-e7P9U7UiqXckuj38XSQ,',
   ',',
   '2017-12-07',
   '11:56:01,',
   '2,',
-  '0),',
+  '0,',
   '3.',
   'Gülsin',
   'Onay',
@@ -5970,17 +5969,17 @@ const art = [
   'diye',
   'konuştu.',
   ' ',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   '3.,',
   'https://www.cnnturk.com/kultur-sanat/diger/3-gulsin-onay-piyano-gunleri-basliyor-unlu-virtuozler-suleymanpasada,',
   ',',
   '2017-12-07',
   '12:22:05,',
   '2,',
-  '1),',
+  '1,',
   '27.',
   'Akbank',
   'Caz',
@@ -6124,7 +6123,7 @@ const art = [
   '2017-12-07',
   '12:55:03,',
   '2,',
-  '0),',
+  '0,',
   'Ocean’s',
   '8ten',
   'yeni',
@@ -6245,7 +6244,7 @@ const art = [
   '2017-12-07',
   '13:00:04,',
   '2,',
-  '0),',
+  '0,',
   'Kısa',
   'film',
   'festivali',
@@ -6261,29 +6260,29 @@ const art = [
   'üyeleri',
   'Cengiz',
   'Bozkurt',
-  '(oyuncu),',
+  'oyuncu,',
   'Mehlika',
   'Çelik',
-  '(',
-  'yapımcı),',
+
+  'yapımcı,',
   'Ayhan',
   'Sonyürek',
-  '(',
-  'senarist),',
+
+  'senarist,',
   'Sacit',
   'Altun',
-  '(reklamcı-',
-  'yapımcı),',
+  'reklamcı-',
+  'yapımcı,',
   'Veli',
   'Çelik',
-  '(',
-  'yönetmen)',
+
+  'yönetmen',
   'Süleyman',
   'Civliz',
-  '(',
+
   'akademisyen',
   '-',
-  'yönetmen)',
+  'yönetmen',
   'tarafından',
   'seçilmiş',
   've',
@@ -6391,7 +6390,7 @@ const art = [
   '2017-12-07',
   '14:33:04,',
   '2,',
-  '0),',
+  '0,',
   'Yeni',
   'yılın',
   'geldiğini',
@@ -6449,13 +6448,13 @@ const art = [
   'olmadığı',
   'belirtildi.',
   ' ',
-  '',
-  '',
-  '',
+
+
+
   ' ',
-  '',
-  '',
-  '',
+
+
+
   'ABD',
   'Başkanı',
   'Trump,',
@@ -6511,27 +6510,27 @@ const art = [
   'göstereleri',
   'düzenlendi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/yeni-yilin-geldigini-hatirlatan-10-sarki,LWjiZdtOe0G4Rs9MGZpXCQ,',
   ',',
   '2017-12-07',
   '22:00:03,',
   '2,',
-  '10),',
+  '10,',
   'Gülse',
   'Birselin',
   'yeni',
@@ -6619,7 +6618,7 @@ const art = [
   '2017-12-08',
   '12:00:03,',
   '2,',
-  '1)',
+  '1',
   'Seyirciye',
   'olan',
   'saygımı',
@@ -6726,7 +6725,7 @@ const art = [
   '2017-12-08',
   '13:08:05,',
   '2,',
-  '0),',
+  '0,',
   'HELLO!’dan',
   'yepyeni',
   'bir',
@@ -6816,7 +6815,7 @@ const art = [
   '2017-12-08',
   '13:33:03,',
   '2,',
-  '1),',
+  '1,',
   'Şehir',
   'Tiyatroları',
   'yüzde',
@@ -6925,7 +6924,7 @@ const art = [
   '2017-12-08',
   '14:22:03,',
   '2,',
-  '0),',
+  '0,',
   '2018',
   'Resimli',
   'Türkçe',
@@ -7028,7 +7027,7 @@ const art = [
   '2017-12-08',
   '14:22:04,',
   '2,',
-  '0),',
+  '0,',
   '‘Kedi’,',
   '2017’nin',
   'en',
@@ -7079,7 +7078,7 @@ const art = [
   'can',
   'alıcı',
   'yapan',
-  '(da)',
+  'da',
   'budur',
   '-',
   've',
@@ -7101,32 +7100,32 @@ const art = [
   'City',
   'of',
   'Z',
-  '(Kayıp',
+  'Kayıp',
   'Şehir',
-  'Z),',
+  'Z,',
   '4.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/883153/_Kedi___2017_nin_en_iyileri_arasinda.html,',
   ',',
   '2017-12-10',
   '03:27:05,',
   '2,',
-  '0),',
+  '0,',
   'İbrahim',
   'Selim:',
   'Adını',
@@ -7324,7 +7323,7 @@ const art = [
   '2017-12-11',
   '13:16:04,',
   '2,',
-  '0),',
+  '0,',
   'Halk',
   'ozanı',
   'Ali',
@@ -7415,27 +7414,27 @@ const art = [
   'birinci',
   'seçilmişti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/885121/Halk_ozani_Ali_Kiziltug_yasamini_yitirdi.html,',
   ',',
   '2017-12-13',
   '06:45:04,',
   '2,',
-  '0),',
+  '0,',
   'Alakarga',
   'Yayınlarından',
   'bu',
@@ -7525,7 +7524,7 @@ const art = [
   '2017-12-13',
   '07:22:02,',
   '2,',
-  '0),',
+  '0,',
   'Çocuk',
   'işçi',
   'Ahmet',
@@ -7588,10 +7587,10 @@ const art = [
   'FestivalSEE',
   'Film',
   'Festival',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'London',
   'Kurdish',
   'Film',
@@ -7617,8 +7616,8 @@ const art = [
   'GaleriYönetmen',
   'görüşüŞekirê',
   'Pembû',
-  '(Pamuk',
-  'Şeker)',
+  'Pamuk',
+  'Şeker',
   'filminin',
   'yönetmeni',
   'filmi',
@@ -7626,7 +7625,7 @@ const art = [
   'anlatıyor:',
   'Ahmet',
   'Yıldız',
-  '(13)',
+  '13',
   'yaşında',
   'bir',
   'çocuk',
@@ -7691,8 +7690,8 @@ const art = [
   'anlatan',
   'Şekirê',
   'Pembû',
-  '(Pamuk',
-  'Şeker)',
+  'Pamuk',
+  'Şeker',
   'çocukların',
   'hem',
   'kırsal',
@@ -7731,7 +7730,7 @@ const art = [
   '2017-12-13',
   '07:33:03,',
   '2,',
-  '0),',
+  '0,',
   'Mülteci',
   'müzisyenler',
   'dünya',
@@ -7786,8 +7785,8 @@ const art = [
   'Özdemir,',
   'Birol',
   'Namoğlu',
-  '(Gripin',
-  'Solisti),',
+  'Gripin',
+  'Solisti,',
   'Sertaç',
   'Özgümüş,',
   'Ozan',
@@ -7796,16 +7795,16 @@ const art = [
   'Farah,',
   'Ahmet',
   'Güvenç',
-  '(Kurtalan',
-  'Ekpres),',
+  'Kurtalan',
+  'Ekpres,',
   'Bülent',
   'Güven',
-  '(Kurtalan',
-  'Ekpres),',
+  'Kurtalan',
+  'Ekpres,',
   'Volkan',
   'Sevik',
-  '(Kurtalan',
-  'Ekpres)',
+  'Kurtalan',
+  'Ekpres',
   'yer',
   'aldı.',
   'Müzisyenlerde',
@@ -7965,7 +7964,7 @@ const art = [
   '2017-12-13',
   '09:11:04,',
   '2,',
-  '0),',
+  '0,',
   'MIX',
   'Festival’de',
   'Red',
@@ -8105,7 +8104,7 @@ const art = [
   '2017-12-13',
   '09:11:06,',
   '2,',
-  '0),',
+  '0,',
   'Çocuklara',
   'Roma,',
   'Mısır',
@@ -8134,8 +8133,8 @@ const art = [
   'anlatıyor.',
   'Redhouse',
   'Kidz',
-  '(SEV',
-  'Yayıncılık)',
+  'SEV',
+  'Yayıncılık',
   'tarafından',
   'yayımlanan',
   've',
@@ -8204,7 +8203,7 @@ const art = [
   '2017-12-13',
   '09:55:04,',
   '2,',
-  '0),',
+  '0,',
   'İnsanın',
   'tüketim',
   'krizine',
@@ -8270,7 +8269,7 @@ const art = [
   '2017-12-13',
   '11:44:02,',
   '2,',
-  '0),',
+  '0,',
   '22',
   'Aralıkta',
   'Martıların',
@@ -8343,8 +8342,8 @@ const art = [
   'vermeye',
   'çalışan',
   'Birgül',
-  '(Bige',
-  'Önal),',
+  'Bige',
+  'Önal,',
   'kendisini',
   'Martıların',
   'Efendisinin',
@@ -8396,7 +8395,7 @@ const art = [
   '2017-12-13',
   '12:33:02,',
   '2,',
-  '0),',
+  '0,',
   'Dünyayı',
   'değiştiren',
   'dahilerin',
@@ -8515,7 +8514,7 @@ const art = [
   '2017-12-13',
   '14:22:03,',
   '2,',
-  '11),',
+  '11,',
   'Yeniceli',
   'Mehmet',
   'Ağa’nın',
@@ -8632,7 +8631,7 @@ const art = [
   '2017-12-13',
   '14:33:03,',
   '2,',
-  '12),',
+  '12,',
   'İyi',
   'ki',
   'doğdun',
@@ -8742,27 +8741,27 @@ const art = [
   'fezleke',
   'hazırlandı.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/sanat/iyi-ki-dogdun-tarik-akan,kasTXrsIjEaOHxgCqFW7Zw,',
   ',',
   '2017-12-13',
   '15:00:05,',
   '2,',
-  '10),',
+  '10,',
   'Selena',
   'Gomezden',
   'yeni',
@@ -8804,12 +8803,12 @@ const art = [
   'listesi',
   'belli',
   'oldu',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   ' Yedek',
   'oyuncuların',
   'performansını',
@@ -8866,7 +8865,7 @@ const art = [
   '2017-12-13',
   '17:00:05,',
   '2,',
-  '0),',
+  '0,',
   'Mesnevi',
   'aşk',
   'pazarının',
@@ -8994,15 +8993,15 @@ const art = [
   '2017-12-13',
   '19:22:02,',
   '2,',
-  '1),',
+  '1,',
   'Yeni',
   'X-Men',
   'serisi',
   'gündemde',
-  '(Hugh',
+  'Hugh',
   'Jackmanın',
   'Avengers',
-  'hayali),',
+  'hayali,',
   'İsrail',
   'Ordu',
   'Sözcüsü',
@@ -9096,17 +9095,17 @@ const art = [
   '2017-12-14',
   '01:00:03,',
   '2,',
-  '0),',
+  '0,',
   'Halk',
   'ozanı',
   'Ali',
   'Kızıltuğ',
   'hayatını',
   'kaybetti',
-  '(2017de',
+  '2017de',
   'hayatını',
   'kaybeden',
-  'ünlüler),',
+  'ünlüler,',
   'Balıkesir’in',
   'Ayvalık',
   'İlçesi’ndeki',
@@ -9233,27 +9232,27 @@ const art = [
   ' ',
   ' ',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/halk-ozani-ali-kiziltug-hayatini-kaybetti-2017de-hayatini-kaybeden-unluler,Ja6HeqzUU0iakDmfEjU5Yw,',
   ',',
   '2017-12-14',
   '06:00:03,',
   '2,',
-  '0),',
+  '0,',
   'Fatih',
   'Erdemci',
   '18',
@@ -9313,7 +9312,7 @@ const art = [
   '2017-12-14',
   '08:11:06,',
   '2,',
-  '0),',
+  '0,',
   'Kaf',
   'Dağı’nın',
   'Ardında',
@@ -9371,13 +9370,13 @@ const art = [
   'kendimizi',
   'anlamak',
   'demek',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
   'Canan’ın',
   'Kaf',
   'Dağı’nın',
@@ -9415,7 +9414,7 @@ const art = [
   'olan',
   'Hayvanlar',
   'Âlemi',
-  '(2017).',
+  '2017.',
   'Sergiye',
   'eşlik',
   'eden',
@@ -9451,7 +9450,7 @@ const art = [
   '2017-12-14',
   '09:33:03,',
   '2,',
-  '0),',
+  '0,',
   'Hollywood',
   'yıldızı',
   'Ethan',
@@ -9553,10 +9552,10 @@ const art = [
   'okurla',
   'buluştuTanıtım',
   'metninden:',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
   'İftiraya',
   'uğrayıp',
   'İstiklal',
@@ -9641,7 +9640,7 @@ const art = [
   '2017-12-14',
   '11:55:06,',
   '2,',
-  '0),',
+  '0,',
   'Cemil',
   'Koçak,',
   'CHP',
@@ -9657,7 +9656,7 @@ const art = [
   'Sistemin',
   'Kuruluş',
   'Yılları',
-  '(1945-1950)',
+  '1945-1950',
   'adlı',
   'kitap',
   'dizisinde,',
@@ -9701,7 +9700,7 @@ const art = [
   'Millî',
   'Şef',
   'Dönemi',
-  '(1938-1945)',
+  '1938-1945',
   'adlı',
   'araştırmasının',
   'devamı',
@@ -9770,7 +9769,7 @@ const art = [
   '2017-12-14',
   '13:33:04,',
   '2,',
-  '0),',
+  '0,',
   'Tiyatrokareden',
   'Leylanın',
   'Evi',
@@ -9781,59 +9780,59 @@ const art = [
   'sahnesinde',
   'oyuncuya',
   'saldırı',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '21.',
   'Ahududu9',
   'Ocak',
@@ -9893,59 +9892,59 @@ const art = [
   'Ayrımını',
   'Afişte',
   'anlattı',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   'Ferhangi',
   'Şeyler',
   '2',
@@ -9954,12 +9953,12 @@ const art = [
   'kez',
   'sahnelendi',
   ' ',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Zülfü',
   'Livanelinin',
   'aynı',
@@ -9987,7 +9986,7 @@ const art = [
   '2017-12-14',
   '13:44:08,',
   '2,',
-  '0),',
+  '0,',
   'Keman',
   'sanatçısı',
   'Okan',
@@ -10102,27 +10101,27 @@ const art = [
   'kusurlu',
   'bulundu.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/turkiye/886322/Keman_sanatcisi_Okan_Arikan_davasinda_yeni_gelisme.html,',
   ',',
   '2017-12-14',
   '15:00:03,',
   '2,',
-  '0),',
+  '0,',
   '6',
   'yıl',
   'hapsi',
@@ -10211,14 +10210,14 @@ const art = [
   '2017-12-14',
   '18:00:02,',
   '2,',
-  '0),',
+  '0,',
   'İstanbul’dan',
   'First',
   'Lady',
   'geçti',
-  '(Carla',
+  'Carla',
   'Bruni',
-  'rüzgarı),',
+  'rüzgarı,',
   'İngiliz',
   'The',
   'Sun',
@@ -10303,27 +10302,27 @@ const art = [
   'fark',
   'etti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/istanbuldan-first-lady-gecti-carla-bruni-ruzgari,KtrkAt7pI0eqi6L1FddG8w,',
   ',',
   '2017-12-14',
   '20:00:02,',
   '2,',
-  '0),',
+  '0,',
   'Halk',
   'ozanı',
   'Ali',
@@ -10587,27 +10586,27 @@ const art = [
   'iş',
   'akitleri',
   'feshedilmiştir.r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/halk-ozani-ali-kiziltug-son-yolculuguna-ugurlandi,n-wSZUAVfUSahQjkYfsgPQ,',
   ',',
   '2017-12-14',
   '21:00:05,',
   '2,',
-  '0),',
+  '0,',
   'Türkiyenin',
   'ilk',
   'plak',
@@ -10653,12 +10652,12 @@ const art = [
   'sesiyle',
   'plak',
   'formatında',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'Eskisi',
   'kadar',
   'popüler',
@@ -10721,7 +10720,7 @@ const art = [
   '2017-12-15',
   '03:55:05,',
   '2,',
-  '10),',
+  '10,',
   'Topkapı',
   'Sarayında',
   'tarihi',
@@ -10789,35 +10788,35 @@ const art = [
   'olduğu',
   'anlaşıldı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/886506/Topkapi_Sarayi_nda_tarihi_kesif.html,',
   ',',
   '2017-12-15',
   '05:18:03,',
   '2,',
-  '11),',
+  '11,',
   '2017nin',
   'en',
   'iyi',
   'vahşi',
   'yaşam',
   'fotoğrafları',
-  '(National',
-  'Geographic),',
+  'National',
+  'Geographic,',
   'Serinin',
   'son',
   'oyunu',
@@ -10898,7 +10897,7 @@ const art = [
   '2017-12-15',
   '06:00:05,',
   '2,',
-  '2),',
+  '2,',
   'Ayla',
   'Oscar',
   'yarışına',
@@ -10996,7 +10995,7 @@ const art = [
   '2017-12-15',
   '07:33:04,',
   '2,',
-  '0),',
+  '0,',
   'Ayla,',
   'Oscara',
   'aday',
@@ -11099,27 +11098,27 @@ const art = [
   'sürede',
   '4.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/886621/Ayla__Oscar_a_aday_olamadi.html,',
   ',',
   '2017-12-15',
   '08:18:02,',
   '2,',
-  '0),',
+  '0,',
   'Gezmekle',
   'bitmeyen',
   'İstanbulun',
@@ -11185,9 +11184,9 @@ const art = [
   'ayda',
   '110',
   'ruble',
-  '(yaklaşık',
+  'yaklaşık',
   '132',
-  'dolar)',
+  'dolar',
   'alıyordum.',
   'Ama',
   'filmlerde',
@@ -11195,9 +11194,9 @@ const art = [
   'günde',
   '75',
   'ruble',
-  '(yaklaşık',
+  'yaklaşık',
   '95',
-  'dolar)',
+  'dolar',
   'kazanıyordum.Çok',
   'iyi',
   'bir',
@@ -11230,27 +11229,27 @@ const art = [
   'aldığını',
   'söyledi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/bir-zamanlar-istanbul-eski-istanbul-fotograflari,e_d9wrESnUO5nPH1E6J_kA,',
   ',',
   '2017-12-15',
   '10:00:05,',
   '2,',
-  '1),',
+  '1,',
   'Ayla',
   'Oscara',
   'aday',
@@ -11353,27 +11352,27 @@ const art = [
   'sürede',
   '4.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/ayla-oscara-aday-olamadi,y7hQsLvh7EKKVuRd7hpaFA,',
   ',',
   '2017-12-15',
   '10:00:06,',
   '2,',
-  '1),',
+  '1,',
   'Aslı',
   'Enverden',
   'Öteki',
@@ -11423,18 +11422,18 @@ const art = [
   'şeklinde',
   'konuştu.',
   'rrdataLayer.',
-  'push(r{rplatform:',
+  'pushr{rplatform:',
   'Responsive,rcategory1:',
   'Sanat,rcategory2:',
   '&#39Öteki',
   'Taraf&#39',
-  'fragmanır})rrrr.,',
+  'fragmanır}rrrr.,',
   'https://www.ntv.com.tr/sanat/asli-enverden-oteki-taraf-aciklamasi,VcPw214LtUefRdl3R5lTTA,',
   ',',
   '2017-12-15',
   '10:32:03,',
   '2,',
-  '1),',
+  '1,',
   'Eteği',
   'Belinde',
   'şarkısı',
@@ -11455,7 +11454,7 @@ const art = [
   'Dönersen',
   'ıslık',
   'çal',
-  '',
+
   'isimli',
   'albümünün',
   'çıkış',
@@ -11472,7 +11471,7 @@ const art = [
   'çekilen',
   'Eteği',
   'Belinde',
-  '',
+
   'isimli',
   'parçanın',
   'sanatçı',
@@ -11546,7 +11545,7 @@ const art = [
   'olduğunun',
   'farkına',
   'vardım.',
-  '',
+
   'Ben',
   'yazdım,',
   'ben',
@@ -11709,27 +11708,27 @@ const art = [
   'dolayı',
   'da',
   'vazgeçecekr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/886965/_Etegi_Belinde__sarkisi_calinti_cikti..._Manus_Baba_dan_aciklama.html,',
   ',',
   '2017-12-15',
   '13:54:03,',
   '2,',
-  '0),',
+  '0,',
   'Eteği',
   'Belinde',
   'şarkısı',
@@ -11751,7 +11750,7 @@ const art = [
   'Dönersen',
   'ıslık',
   'çal',
-  '',
+
   'isimli',
   'albümünün',
   'çıkış',
@@ -11768,7 +11767,7 @@ const art = [
   'çekilen',
   'Eteği',
   'Belinde',
-  '',
+
   'isimli',
   'parçanın',
   'sanatçı',
@@ -11846,7 +11845,7 @@ const art = [
   'olduğunun',
   'farkına',
   'vardım.',
-  '',
+
   'Ben',
   'yazdım,',
   'ben',
@@ -12009,33 +12008,33 @@ const art = [
   'dolayı',
   'da',
   'vazgeçecekr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'http://www.cumhuriyet.com.tr/haber/kultur-sanat/886965/_Etegi_Belinde_sarkisi_calinti_cikti__iddiasi..._Manus_Baba_dan_aciklama.html,',
   ',',
   '2017-12-15',
   '14:09:02,',
   '2,',
-  '0),',
+  '0,',
   'Game',
   'of',
   'Thronesun',
   'Duvarı',
-  '(The',
-  'Wall)',
+  'The',
+  'Wall',
   'gerçek',
   'olabilir',
   'mi?,',
@@ -12051,7 +12050,7 @@ const art = [
   'Dönersen',
   'ıslık',
   'çal',
-  '',
+
   'isimli',
   'albümünün',
   'çıkış',
@@ -12068,7 +12067,7 @@ const art = [
   'çekilen',
   'Eteği',
   'Belinde',
-  '',
+
   'isimli',
   'parçanın',
   'sanatçı',
@@ -12153,7 +12152,7 @@ const art = [
   'olduğunun',
   'farkına',
   'vardım.',
-  '',
+
   'Ben',
   'yazdım,',
   'ben',
@@ -12316,27 +12315,27 @@ const art = [
   'dolayı',
   'da',
   'vazgeçecekr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/galeri/sanat/game-of-thronesun-duvari-the-wall-gercek-olabilir-mi,eY4frZrTaUWTOXxbpEdG6g,',
   ',',
   '2017-12-15',
   '15:00:04,',
   '2,',
-  '0),',
+  '0,',
   'Sansa',
   'Starktan',
   'Game',
@@ -12354,7 +12353,7 @@ const art = [
   'Federal',
   'Soruşturma',
   'Bürosu',
-  '(FBI)',
+  'FBI',
   'Ulusal',
   'Akademisindeki',
   'mezuniyet',
@@ -12408,12 +12407,12 @@ const art = [
   'gereken',
   'her',
   'şey',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'FBI',
   'görevlilerine',
   've',
@@ -12485,7 +12484,7 @@ const art = [
   '2017-12-15',
   '19:00:03,',
   '2,',
-  '0),',
+  '0,',
   'Arif',
   'V',
   '2016nın',
@@ -12536,27 +12535,27 @@ const art = [
   'olarak',
   'açıkladı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.,',
   'https://www.ntv.com.tr/video/sanat/arif-v-2016nin-fragmani-yayinlandi,uLIIMrtpaUuonslHLv-OsQ,',
   ',',
   '2017-12-15',
   '20:00:05,',
   '2,',
-  '0),',
+  '0,',
   '2018de',
   'HBO’da',
   'neler',
@@ -12614,7 +12613,7 @@ const art = [
   'Görüntü',
   'Bilişim',
   'Sistemi',
-  '(SEGBİS)',
+  'SEGBİS',
   'ile',
   'duruşmaya',
   'bağlandı.',
@@ -12677,7 +12676,7 @@ const art = [
   '2017-12-15',
   '21:00:06,',
   '2,',
-  '0)',
+  '0',
   'MIX',
   'Festival’de',
   '‘oradaydım’',
@@ -12692,7 +12691,7 @@ const art = [
   'Standard',
   '&',
   'Poors',
-  '(S&P),',
+  'S&P,',
   'Türkiyenin',
   'kredi',
   'notu',
@@ -12773,7 +12772,7 @@ const art = [
   '2017-12-15',
   '21:00:07,',
   '2,',
-  '0),',
+  '0,',
   'The',
   'Simpsonsın',
   'bir',
@@ -12784,13 +12783,13 @@ const art = [
   'sonra',
   'gerçek',
   'oldu',
-  '(Walt',
+  'Walt',
   'Disney,',
   '20th',
   'Century',
   'Foxu',
   'satın',
-  'aldı),',
+  'aldı,',
   'TBMM',
   'Genel',
   'Kurulu’nda',
@@ -13032,9 +13031,9 @@ const art = [
   'derim.',
   'Luke’un',
   'filmi',
-  '(The',
+  'The',
   'Last',
-  'Jedi)',
+  'Jedi',
   'çekildi',
   'çekilmesine',
   'de,',
@@ -13266,13 +13265,13 @@ const art = [
   'sonra',
   'gerçek',
   'oldu',
-  '(Walt',
+  'Walt',
   'Disney,',
   '20th',
   'Century',
   'Foxu',
   'satın',
-  'aldı),',
+  'aldı,',
   'Rıza',
   'Sarrafın',
   'ABD’deki',
@@ -13539,7 +13538,7 @@ const art = [
   've',
   'abisi',
   'Muhammed',
-  '(Can)',
+  'Can',
   'Sarraf’ın',
   'İran’a',
   'gittiği',
@@ -13550,7 +13549,7 @@ const art = [
   '2017-12-16',
   '10:00:02,',
   '2,',
-  '6),',
+  '6,',
   'Manuş',
   'Babanın',
   'Eteği',
@@ -13558,9 +13557,9 @@ const art = [
   'şarkısı',
   'çalıntı',
   'çıktı',
-  '(MSG',
+  'MSG',
   'karar',
-  'verdi),',
+  'verdi,',
   'Zekeriya',
   'Öz-',
   'Enes',
@@ -13608,12 +13607,12 @@ const art = [
   'berabere',
   'kaldık',
   '2009-2010',
-  'sezonunda.(Bursapor',
+  'sezonunda.Bursapor',
   'Beşiktaşı',
   'yendi',
   've',
   'şampiyon',
-  'oldu)',
+  'oldu',
   'Biz',
   'o',
   'sene',
@@ -13726,11 +13725,11 @@ const art = [
   'Fikret',
   'Seçen',
   '‘den',
-  '(Firari',
+  'Firari',
   'İstanbul',
   'eski',
   'Cumhuriyet',
-  'Savcısı)',
+  'Savcısı',
   'bizzat',
   'dinlediğim',
   'olayı',
@@ -13795,7 +13794,7 @@ const art = [
   '2017-12-16',
   '10:00:04,',
   '2,',
-  '10),',
+  '10,',
   'Oğuz',
   'Atay',
   '40.',
@@ -13979,7 +13978,7 @@ const art = [
   '2017-12-16',
   '17:32:04,',
   '2,',
-  '1),',
+  '1,',
   'En',
   'kısa',
   'günde',
@@ -14033,7 +14032,7 @@ const art = [
   'dolayısıyla',
   'Pamukkale',
   'Üniversitesi',
-  '(PAÜ)',
+  'PAÜ',
   'Kongre',
   've',
   'Kültür',
@@ -14122,7 +14121,7 @@ const art = [
   '2017-12-17',
   '09:00:06,',
   '2,',
-  '0)',
+  '0',
 ];
 
 export default art;

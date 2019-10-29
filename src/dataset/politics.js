@@ -5160,7 +5160,7 @@ const politics = [
   'istemiyor',
   'dedi.',
   ' ',
-  '',
+
   'chpden',
   'belge',
   'ne',
@@ -5185,23 +5185,23 @@ const politics = [
   'da',
   'saray',
   'yanındar					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877103/chp__belgelerle_ilgili__komisyon_kurulsun__dedi__akp_liler_gulerek_reddetti.html',
-  '',
+
   '2017-11-30',
   '15:56:05',
   '1',
@@ -5291,23 +5291,23 @@ const politics = [
   'beraat',
   'karar',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876947/demirtas__onbasi__davasinda_beraat_etti.html',
-  '',
+
   '2017-11-30',
   '15:56:11',
   '1',
@@ -5435,23 +5435,23 @@ const politics = [
   'aykan',
   'erdemir',
   'açıklamar					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876910/chp_den__belgeler_neden_savciliga_verilmedi__diyen_akp_ye_yanit.html',
-  '',
+
   '2017-11-30',
   '15:56:12',
   '1',
@@ -5672,23 +5672,23 @@ const politics = [
   'kurulma',
   'çağrı',
   'yaptı.r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876802/kilicdaroglu_belgeleri_kimden_aldigini_acikladi__yeni_belge_sinyali_verdi.html',
-  '',
+
   '2017-11-30',
   '15:56:16',
   '1',
@@ -5783,23 +5783,23 @@ const politics = [
   'adalet',
   'beklemiyorum.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876663/bekir_bozdag_dan_kilicdaroglu_nun_acikladigi_belgelere_yanit__meryem_hanimefendiye_ve_aise_annemize_de_iftira_ettiler.html',
-  '',
+
   '2017-11-30',
   '15:56:19',
   '1',
@@ -5933,23 +5933,23 @@ const politics = [
   'chp',
   'burs',
   'milletvekilir					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876661/abd_ye_belge_goturdugu_iddiasiyla_hakkinda_yakalama_karari_cikarilan_aykan_erdemir_den_aciklama.html',
-  '',
+
   '2017-11-30',
   '15:56:19',
   '1',
@@ -5993,23 +5993,23 @@ const politics = [
   'aktör',
   'olmayacağız.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/876581/erdogan__milletvekilleri_ile_gorustu..._akp_den_zafer_caglayan_aciklamasi.html',
-  '',
+
   '2017-11-30',
   '15:56:21',
   '1',
@@ -6170,23 +6170,23 @@ const politics = [
   'kriz',
   'temennisidir.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877021/bahceli__man_adasi_skandalinda_da_saray_in_yaninda.html',
-  '',
+
   '2017-11-30',
   '16:45:09',
   '1',
@@ -6264,23 +6264,23 @@ const politics = [
   'işaretidir"',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877162/akp_li_vekil_diyarbakir_cezaevindeki_iskenceyi_anlatirken_agladi__gokyuzune_bakmanin_suc_oldugu_bir_ortamdi.html',
-  '',
+
   '2017-11-30',
   '17:09:02',
   '1',
@@ -6343,23 +6343,23 @@ const politics = [
   'yapılma',
   'planlanıyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877215/hdp_de_kurultay_tarihi_belli_oldu.html',
-  '',
+
   '2017-11-30',
   '19:00:03',
   '1',
@@ -6448,23 +6448,23 @@ const politics = [
   'kadro',
   'ihdas',
   'edilecekr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877216/ysk_kanun_teklifi_kabul_edildi.html',
-  '',
+
   '2017-11-30',
   '19:09:04',
   '1',
@@ -6566,23 +6566,23 @@ const politics = [
   'edildik',
   'bina',
   'ibarettirr					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877210/avukat_kozagacli_tecrite_karsi_tek_basina_direniyor.html',
-  '',
+
   '2017-12-01',
   '01:45:05',
   '1',
@@ -6676,23 +6676,23 @@ const politics = [
   'anlaş',
   '6.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877279/adres_man_adasi..._belgelere_ulasmak_cok_kolay.html',
-  '',
+
   '2017-12-01',
   '02:27:03',
   '1',
@@ -6858,23 +6858,23 @@ const politics = [
   'ifade',
   'kullandı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877278/erdogan_vekillerini_ikna_etmeye_calisti__sikinti_getirir_ama_icinden_cikariz.html',
-  '',
+
   '2017-12-01',
   '02:27:03',
   '1',
@@ -6962,23 +6962,23 @@ const politics = [
   'is',
   'sürüyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877297/chp_nin_tum_yoneticilerine_sorusturma.html',
-  '',
+
   '2017-12-01',
   '05:54:03',
   '1',
@@ -7073,7 +7073,7 @@ const politics = [
   'çağlayan’ın',
   'o',
   'sözleri: ',
-  '',
+
   'sarraf',
   'itiraf',
   'abd',
@@ -7085,23 +7085,23 @@ const politics = [
   'iç',
   'utanç',
   'vericir					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877406/arsiv_unutmaz..._sarraf_in__45-50_milyon_avro_rusvet_verdim__dedigi_zafer_caglayan_ne_demisti_.html',
-  '',
+
   '2017-12-01',
   '08:09:04',
   '1',
@@ -7167,7 +7167,7 @@ const politics = [
   'olma',
   'bekleniyor.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877459/chp_li_vekiller_enis_berberoglu_durusmasinda.html',
-  '',
+
   '2017-12-01',
   '10:00:07',
   '1',
@@ -7283,23 +7283,23 @@ const politics = [
   'son',
   'erecek.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877605/kurtulmus__mevlana_maalesef_bir_takim_yanlis_humanist_goruslerin_parcasi_olarak_anlatilmaya_calisiyor.html',
-  '',
+
   '2017-12-01',
   '11:09:02',
   '1',
@@ -7384,7 +7384,7 @@ const politics = [
   '‘ticaret’',
   'dendi.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877634/tezcan__belgeleri_basina_dagitmisti..._akp_den_ilk_aciklama.html',
-  '',
+
   '2017-12-01',
   '12:45:05',
   '1',
@@ -7459,23 +7459,23 @@ const politics = [
   'dava',
   'izledi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877692/binali_yildirim_dan_kilicdaroglu_na_tehlikeli_15_temmuz_sorusu.html',
-  '',
+
   '2017-12-01',
   '12:54:05',
   '1',
@@ -7531,7 +7531,7 @@ const politics = [
   'iç',
   'erken.',
   ' ',
-  '',
+
   '"cumhurbaşkanimizla',
   'i̇sti̇şareleri̇mi̇zi̇',
   'yaptiktan',
@@ -7539,7 +7539,7 @@ const politics = [
   'çalişmalarimiza',
   'devam',
   'edeceği̇z',
-  '',
+
   'mahir',
   'ünal',
   'bugünk',
@@ -7551,7 +7551,7 @@ const politics = [
   'şöyl',
   'yanıt',
   'verdi:',
-  '',
+
   'bugünk',
   'an',
   'günde',
@@ -7610,11 +7610,11 @@ const politics = [
   'çalışma',
   'devam',
   'edeceğiz. ',
-  '',
+
   'riza',
   'sarraf',
   'davasi',
-  '',
+
   'ünal',
   'abdde',
   'süren',
@@ -7708,7 +7708,7 @@ const politics = [
   'belge',
   'sahte',
   'hükmündedi̇r',
-  '',
+
   'mahir',
   'ünal',
   'chp',
@@ -7915,7 +7915,7 @@ const politics = [
   'bi̇r',
   'şey',
   'deği̇ldi̇r',
-  '',
+
   'ünal',
   '"türkiyenin',
   'gündem',
@@ -7990,7 +7990,7 @@ const politics = [
   'üzer',
   'şun',
   'kaydetti:',
-  '',
+
   'dağıtılan',
   'bu',
   'dekont',
@@ -8029,7 +8029,7 @@ const politics = [
   'bilg',
   'yok',
   'dedi. ',
-  '',
+
   '"i̇l',
   'başkanlarimizla',
   'i̇lgi̇li̇',
@@ -8038,7 +8038,7 @@ const politics = [
   'süreci̇',
   'devam',
   'edi̇yor',
-  '',
+
   'mahir',
   'ünal',
   'baz',
@@ -8060,13 +8060,13 @@ const politics = [
   'devam',
   'ediyor.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877634/chp_belgeleri_basinla_paylasti..._akp_den_yanit_geldi__fotokopi.html',
-  '',
+
   '2017-12-01',
   '12:54:08',
   '1',
   '0)',
   'i̇yi̇',
-  '',
+
   'parti’den',
   'rız',
   'sarraf',
@@ -8136,23 +8136,23 @@ const politics = [
   'tesl',
   'edilemez.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877911/iyi__parti_den_riza_sarraf_aciklamasi.html',
-  '',
+
   '2017-12-01',
   '18:18:03',
   '1',
@@ -8230,12 +8230,12 @@ const politics = [
   '9-0lık',
   'yenilg',
   'yor',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
   'futbolç',
   'satma',
   'lazımmaddi',
@@ -8338,7 +8338,7 @@ const politics = [
   'üye',
   'katıldı.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/877741/akp_li_vekilden_kilicdaroglu_hakkinda_suc_duyurusu__evi_ve_chp_genel_merkezinde_arama_yapilsin.html',
-  '',
+
   '2017-12-02',
   '00:00:12',
   '1',
@@ -8448,23 +8448,23 @@ const politics = [
   'görüş',
   'dillendirildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878009/demirtas_tan_partisine__benimle_ilgili_karari_verin__mesaji.html',
-  '',
+
   '2017-12-02',
   '03:18:03',
   '1',
@@ -8538,23 +8538,23 @@ const politics = [
   'unut',
   'görünüyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878178/akp_li_elitas_tan_kilicdaroglu_na__camur_adam.html',
-  '',
+
   '2017-12-02',
   '10:18:03',
   '1',
@@ -8628,23 +8628,23 @@ const politics = [
   'da',
   'dikkat',
   'çekti. r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878345/meral_aksener__26_yasinda_bir_dolandirici_ile_siz_bu_isi_nasil_tuttunuz_.html',
-  '',
+
   '2017-12-02',
   '14:18:04',
   '1',
@@ -8704,23 +8704,23 @@ const politics = [
   'şey',
   'yok.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878357/chp_li_ozel__akp_li_unal_a_belgeler_icin_randevu_verdi.html',
-  '',
+
   '2017-12-02',
   '14:36:02',
   '1',
@@ -8778,23 +8778,23 @@ const politics = [
   'göndermek',
   'istiyorum.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878361/kilicdaroglu__sahte_diyorlardi__hepsi_gercek_cikti.html',
-  '',
+
   '2017-12-02',
   '16:09:06',
   '1',
@@ -8854,23 +8854,23 @@ const politics = [
   'da',
   'alçaktır.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878417/chp_li_yilmaz_dan_dokunulmazlik_dosyasinin_meclis_e_gonderilmesine_tepki__sizin_gibi_hirsizlik_mi_yaptim_.html',
-  '',
+
   '2017-12-02',
   '16:18:03',
   '1',
@@ -8942,23 +8942,23 @@ const politics = [
   'çalış',
   'başlattı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878535/guzelbahce_belediye_baskani_mustafa_ince_ye_silahli_saldiri.html',
-  '',
+
   '2017-12-02',
   '20:09:03',
   '1',
@@ -9120,23 +9120,23 @@ const politics = [
   'bir',
   'atam',
   'yapması."r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878555/chp_istanbul_da_delege_kavgasi.html',
-  '',
+
   '2017-12-02',
   '23:09:03',
   '1',
@@ -9220,23 +9220,23 @@ const politics = [
   'oluş',
   'gösteriliyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878544/erken_secimin_ayak_sesleri.html',
-  '',
+
   '2017-12-02',
   '23:09:04',
   '1',
@@ -9359,23 +9359,23 @@ const politics = [
   'de',
   'çıkarıldı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878554/yetkiyi_astilar.html',
-  '',
+
   '2017-12-02',
   '23:36:05',
   '1',
@@ -9634,23 +9634,23 @@ const politics = [
   'olmasıdır"',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878513/peki_millet_kim_.html',
-  '',
+
   '2017-12-02',
   '23:45:09',
   '1',
@@ -9752,23 +9752,23 @@ const politics = [
   'gelecektir"',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878624/son_sozu_erdogan_soyledi__secim_baraji_ayni_kalacak.html',
-  '',
+
   '2017-12-03',
   '06:09:03',
   '1',
@@ -9880,23 +9880,23 @@ const politics = [
   'de',
   'çıkarıldı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878554/yetkiyi_astilar..._imamlara_da_resmi_nikah_yetkisi.html',
-  '',
+
   '2017-12-03',
   '07:18:09',
   '1',
@@ -9990,23 +9990,23 @@ const politics = [
   'ödüllendirilmişti.',
   ' ',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878702/cavit_caglar_dan_riza_sarraf_davasi_yorumu__ne_yapmis_turkiye_.html',
-  '',
+
   '2017-12-03',
   '08:36:03',
   '1',
@@ -10557,23 +10557,23 @@ const politics = [
   'verir"',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878789/ahmet_davutoglu_ndan_carpici_riza_sarraf_yorumu__hesap_sorulmalidir.html',
-  '',
+
   '2017-12-03',
   '10:54:03',
   '1',
@@ -10650,23 +10650,23 @@ const politics = [
   'iş',
   'başlatacağız.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878797/engelli_kpss_4_yil_gecerli_olacak.html',
-  '',
+
   '2017-12-03',
   '11:18:02',
   '1',
@@ -10807,23 +10807,23 @@ const politics = [
   'yapmak',
   'suçluyor.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878821/akp_li_vekilden_dikkat_ceken__solcular__cikisi.html',
-  '',
+
   '2017-12-03',
   '11:54:02',
   '1',
@@ -10917,7 +10917,7 @@ const politics = [
   'girecek',
   'bildirdi.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878664/_anketlerde_akp_nin_oyu_yuzde_38__asagiya_dogru_gidis_var_.html',
-  '',
+
   '2017-12-03',
   '12:00:10',
   '1',
@@ -10997,23 +10997,23 @@ const politics = [
   'de',
   'kapatıldı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878875/mummar_guler_in_alan_adi_satilik.html',
-  '',
+
   '2017-12-03',
   '13:00:03',
   '1',
@@ -11067,23 +11067,23 @@ const politics = [
   'başka',
   'değildir.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878922/ozgur_ozel__buyuk_bomba_sali_gunu_patlayacak.html',
-  '',
+
   '2017-12-03',
   '13:45:02',
   '1',
@@ -11129,23 +11129,23 @@ const politics = [
   'boy',
   'eğmeyiz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878962/erdogan__bazi_is_adamlarinin_varliklarini_yurtdisina_kacirma_girisimleri_oldugunu_duyuyorum.html',
-  '',
+
   '2017-12-03',
   '14:27:03',
   '1',
@@ -11207,23 +11207,23 @@ const politics = [
   'boy',
   'eğmeyiz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878962/erdogan__bazi_is_adamlari_varliklarini_yurtdisina_kacirma_gayretinde.html',
-  '',
+
   '2017-12-03',
   '14:54:03',
   '1',
@@ -11317,7 +11317,7 @@ const politics = [
   'eriş',
   'sağlanabilmektedir.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879031/kadir_topbas_tan__yeni_olusum__iddialarina_iliskin_aciklama.html',
-  '',
+
   '2017-12-03',
   '16:00:04',
   '1',
@@ -11390,7 +11390,7 @@ const politics = [
   'düşürme',
   'hedeflemektedir.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879013/erkan_bas_tan_sarraf_yorumu__akp_emekciler_tarafindan_iktidardan_indirilmeli.html',
-  '',
+
   '2017-12-03',
   '16:00:06',
   '1',
@@ -11531,23 +11531,23 @@ const politics = [
   'olmadık',
   'belirtildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878800/hdp__demirtas_icin_kararini_verdi.html',
-  '',
+
   '2017-12-03',
   '16:00:12',
   '1',
@@ -11662,23 +11662,23 @@ const politics = [
   'sevda',
   'bilmiyorsunuz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879091/basbakan_yardimcisi_hakan_cavusoglu__kilicdaroglu_bir_projedir.html',
-  '',
+
   '2017-12-03',
   '18:45:02',
   '1',
@@ -11758,23 +11758,23 @@ const politics = [
   'de',
   'kapatıldı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/878875/muammer_guler_in_alan_adi_satilik.html',
-  '',
+
   '2017-12-03',
   '19:54:14',
   '1',
@@ -11986,23 +11986,23 @@ const politics = [
   'işke',
   'devam',
   'ediyor."r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879108/urfa_tem_de_iskence_iddiasi__elektrik_verip_dovduler.html',
-  '',
+
   '2017-12-04',
   '02:54:05',
   '1',
@@ -12149,23 +12149,23 @@ const politics = [
   'büro',
   'gönderildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879349/hdp_li_19_vekil_hakkinda_fezleke.html',
-  '',
+
   '2017-12-04',
   '09:45:03',
   '1',
@@ -12257,23 +12257,23 @@ const politics = [
   'taraf',
   'reddedilmişti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879328/kilicdaroglu_nun_aym_ye_yaptigi_basvuru_reddedildi.html',
-  '',
+
   '2017-12-04',
   '10:18:07',
   '1',
@@ -12321,7 +12321,7 @@ const politics = [
   'değer',
   'orta',
   'koyalım.',
-  '',
+
   'soru',
   'üzer',
   'biz',
@@ -12340,7 +12340,7 @@ const politics = [
   'or',
   'yolç',
   'burada.',
-  '',
+
   'i̇tti̇faklar',
   'kuruplaş',
   'doğurabi̇li̇r',
@@ -12387,23 +12387,23 @@ const politics = [
   'orta',
   'koyalım.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879460/saadet_partisi_nden_ittifak_aciklamasi.html',
-  '',
+
   '2017-12-04',
   '11:18:02',
   '1',
@@ -12556,23 +12556,23 @@ const politics = [
   'iptal',
   'etmişti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879485/davutoglu__28_subat_ta_konustugumuz_universiteler__kendi_iktidarimizda_bize_kapansin_diye_mucadele_etmedik.html',
-  '',
+
   '2017-12-04',
   '11:54:02',
   '1',
@@ -12723,23 +12723,23 @@ const politics = [
   'iptal',
   'etmişti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879485/davutoglu__28_subat_ta_konustugumuz_universiteler__bize_kapansin_diye_mucadele_etmedik.html',
-  '',
+
   '2017-12-04',
   '12:00:03',
   '1',
@@ -12953,23 +12953,23 @@ const politics = [
   'hesap',
   'sorarsın.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879681/chp_li_ozkoc__riza_sarraf_turkiye_de_yargilanmali.html',
-  '',
+
   '2017-12-04',
   '15:36:03',
   '1',
@@ -13050,23 +13050,23 @@ const politics = [
   'seçilme',
   'öneriyoruz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879696/erdogan_la_gorusen_destici_den__baraj__ve__ittifak__aciklamasi.html',
-  '',
+
   '2017-12-04',
   '16:27:02',
   '1',
@@ -13171,23 +13171,23 @@ const politics = [
   'parti',
   'ittifak',
   'açıklamasır					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879702/akp_sozcusu_mahir_unal_dan_secim_ittifaki_aciklamasi.html',
-  '',
+
   '2017-12-04',
   '16:36:02',
   '1',
@@ -13291,23 +13291,23 @@ const politics = [
   'sahip',
   'çıkacaktır.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879493/erdogan__sermaye_hareketlerinin_sinirlandirilmasi_talimatim_yok.html',
-  '',
+
   '2017-12-05',
   '02:54:10',
   '1',
@@ -13475,23 +13475,23 @@ const politics = [
   'unutturamaz"',
   'denildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879830/chp_den_brosur___akp-feto_kardesligi_.html',
-  '',
+
   '2017-12-05',
   '03:36:03',
   '1',
@@ -13582,23 +13582,23 @@ const politics = [
   'kadın',
   'sesleniyoruz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879826/kilicdaroglu__sarraf_a_gizli_bilgileri_kimin_sizdirdigini_acikliyor_-_canli_yayin.html',
-  '',
+
   '2017-12-05',
   '10:45:15',
   '1',
@@ -13649,23 +13649,23 @@ const politics = [
   ' ',
   ' ',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/879826/kilicdaroglu_ndan_sert_suclamalar__senin_hukumetin_turkiye_cumhuriyeti_devleti_ne_ihanet_etti.html',
-  '',
+
   '2017-12-05',
   '11:36:16',
   '1',
@@ -13710,23 +13710,23 @@ const politics = [
   'dayanışma',
   'sürdürüyoruz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880047/kemalbay__sarraf_ne_yerli_ne_de_millidir._mesele_rusvet_ve_hirsizlik_meselesidir.html',
-  '',
+
   '2017-12-05',
   '14:18:11',
   '1',
@@ -14055,23 +14055,23 @@ const politics = [
   'kes',
   'kırıklık',
   'vardır.r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880315/meral_aksener__dun__riza_bey_kardesim___bugun__hain_reza__oldu.html',
-  '',
+
   '2017-12-05',
   '15:18:03',
   '1',
@@ -14269,23 +14269,23 @@ const politics = [
   'akraba',
   'zenginleştirdiniz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880378/_yakinda__sarraf_bizi_kandirdi__demeye_baslarlar_.html',
-  '',
+
   '2017-12-05',
   '17:54:05',
   '1',
@@ -14484,23 +14484,23 @@ const politics = [
   'akraba',
   'zenginleştirdiniz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880378/kilicdaroglu__yakinda__sarraf_bizi_kandirdi__demeye_baslarlar.html',
-  '',
+
   '2017-12-06',
   '03:18:10',
   '1',
@@ -14621,23 +14621,23 @@ const politics = [
   'devam',
   'edilecek.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880497/demirtas_icin_iki_kritik_gun.html',
-  '',
+
   '2017-12-06',
   '03:36:02',
   '1',
@@ -14773,7 +14773,7 @@ const politics = [
   'olarak',
   'tanımladı.',
   'https://www.cnnturk.com/dunya/ogul-kaddafi-libyada-siyaset-sahnesine-donuyor',
-  '',
+
   '2017-12-06',
   '08:44:03',
   '1',
@@ -14878,23 +14878,23 @@ const politics = [
   'hdpye',
   'ohal',
   'yasağır					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880680/hdp__demirtas_i_savunacak_avukat_1250__mahkeme_salonu_20_kisilik.html',
-  '',
+
   '2017-12-06',
   '08:54:03',
   '1',
@@ -15105,23 +15105,23 @@ const politics = [
   'madde',
   'görülme',
   'geçildi. r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880751/akp_li_il_meclis_baskani__ne_yapalim_kadinlar_olduruluyorsa.html',
-  '',
+
   '2017-12-06',
   '10:09:02',
   '1',
@@ -15332,23 +15332,23 @@ const politics = [
   'madde',
   'görülme',
   'geçildi. r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880751/akp_li_halil_ibrahim_kaya__ne_yapalim_kadinlar_olduruluyorsa.html',
-  '',
+
   '2017-12-06',
   '10:18:02',
   '1',
@@ -15518,23 +15518,23 @@ const politics = [
   'verilmiştir"',
   'denildi.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880737/eski_chp_li_vekil_aykan_erdemir_in_mal_varligina_el_kondu.html',
-  '',
+
   '2017-12-06',
   '11:18:06',
   '1',
@@ -15599,23 +15599,23 @@ const politics = [
   'siyaset',
   'yapıyoruz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880945/kilicdaroglu_hakkindaki_sorusturmaya_chp_den_hodri_meydan.html',
-  '',
+
   '2017-12-06',
   '13:27:03',
   '1',
@@ -15664,23 +15664,23 @@ const politics = [
   'bu',
   'denendi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880968/hdp_li_idris_baluken_in_tutukluluk_halinin_devamina_karar_verildi.html',
-  '',
+
   '2017-12-06',
   '14:00:03',
   '1',
@@ -15777,23 +15777,23 @@ const politics = [
   'karşı',
   'çıkacak.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/880919/aym__demirtas_kararini_acikladi.html',
-  '',
+
   '2017-12-06',
   '14:45:06',
   '1',
@@ -15801,7 +15801,7 @@ const politics = [
   'erdoğandan',
   'kudüs',
   'açıklaması:',
-  '',
+
   'yanlış',
   'bir',
   'ad',
@@ -15845,23 +15845,23 @@ const politics = [
   'öne',
   'veriyoruz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881017/erdogan_dan_kudus_aciklamasi___yanlis_bir_adim_tum_islam_aleminde_infiale_sebep_olacaktir.html',
-  '',
+
   '2017-12-06',
   '14:54:03',
   '1',
@@ -16232,23 +16232,23 @@ const politics = [
   'hakk',
   'bilgi',
   'bulunmaktadır."r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881187/riza_sarraf_la_ilgili_mit_yazisi_mhp_nin_serhinde.html',
-  '',
+
   '2017-12-06',
   '23:09:06',
   '1',
@@ -16646,23 +16646,23 @@ const politics = [
   'değerlendirme',
   'yaptı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881208/akp_liderine_tck_kalkani.html',
-  '',
+
   '2017-12-06',
   '23:18:04',
   '1',
@@ -16790,23 +16790,23 @@ const politics = [
   '2018',
   'tarih',
   'erteledi.r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881185/nuriye_ve_semih_in_avukatlari__onlar_yasasin__biz_hapis_yatariz.html',
-  '',
+
   '2017-12-06',
   '23:18:08',
   '1',
@@ -16923,23 +16923,23 @@ const politics = [
   'savunm',
   'yaptı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881176/_santaj_ve_tuzak_var__iddiasi.html',
-  '',
+
   '2017-12-06',
   '23:18:09',
   '1',
@@ -17093,7 +17093,7 @@ const politics = [
   'konuk',
   'olacak.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881261/kilicdaroglu_ndan_kudus_tepkisi.html',
-  '',
+
   '2017-12-07',
   '02:00:02',
   '1',
@@ -17216,23 +17216,23 @@ const politics = [
   'savunm',
   'yaptı.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881176/polis_kursunuyla_olen_feray_s._davasinda__santaj_ve_tuzak_var__iddiasi.html',
-  '',
+
   '2017-12-07',
   '03:09:10',
   '1',
@@ -17338,23 +17338,23 @@ const politics = [
   '7',
   'aralık',
   '2017r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881371/hdp_den_kudus_aciklamasi.html',
-  '',
+
   '2017-12-07',
   '07:36:02',
   '1',
@@ -17412,23 +17412,23 @@ const politics = [
   'aşama',
   'getirdiniz.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881412/eren_erdem_den_akp_ye_belgeli_kudus_tepkisi__kudus_filistin_in_diyorsunuz_ama....html',
-  '',
+
   '2017-12-07',
   '08:36:04',
   '1',
@@ -17517,23 +17517,23 @@ const politics = [
   'önün',
   'kudüs',
   'protestosur					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881459/abdullatif_sener_den_kudus_tepkisi__sil_sahte_gozyaslarini.html',
-  '',
+
   '2017-12-07',
   '09:18:03',
   '1',
@@ -17561,7 +17561,7 @@ const politics = [
   'sa',
   'baş',
   'şöyle:',
-  '',
+
   'erdoğa',
   'atina',
   'ziyare',
@@ -17588,23 +17588,23 @@ const politics = [
   'da',
   'var.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881766/erdogan_in_lozan_cikisina_cipras_tan_yanit.html',
-  '',
+
   '2017-12-07',
   '14:27:03',
   '1',
@@ -17622,7 +17622,7 @@ const politics = [
   'sa',
   'baş',
   'şöyle:',
-  '',
+
   'erdoğa',
   'atina',
   'ziyare',
@@ -17663,23 +17663,23 @@ const politics = [
   'yıl',
   'sonra.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881766/erdogan_in_lozan_cikisina_cipras_tan_yanit_-_canli_yayin.html',
-  '',
+
   '2017-12-07',
   '14:36:02',
   '1',
@@ -17803,23 +17803,23 @@ const politics = [
   'iddia',
   'etti.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881775/chp_li_sozcu_cumhurbaskani_na_hakaretten_gozaltinda.html',
-  '',
+
   '2017-12-07',
   '14:45:02',
   '1',
@@ -17899,23 +17899,23 @@ const politics = [
   'mese',
   'açık.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881766/atina_da_kibris_polemigi..._cipras__43_yildir_isgal_var__erdogan__o_zaman_cozelim.html',
-  '',
+
   '2017-12-07',
   '14:45:03',
   '1',
@@ -18017,7 +18017,7 @@ const politics = [
   'soruştur',
   'başlatmıştı.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881914/akp__man_belgesini__yalanlamak_isterken_dogruladi.html',
-  '',
+
   '2017-12-08',
   '05:00:07',
   '1',
@@ -18089,23 +18089,23 @@ const politics = [
   'merkez',
   'intikal.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/881953/aksener_e_diyarbakir_da_turkce__kurtce_ve_zazaca_karsilama.html',
-  '',
+
   '2017-12-08',
   '05:27:02',
   '1',
@@ -18214,23 +18214,23 @@ const politics = [
   'yaptık',
   'belirlendi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882002/fetullah_gulen_in_yegeninin_kelepceli_fotografi_ortaya_cikti.html',
-  '',
+
   '2017-12-08',
   '06:54:03',
   '1',
@@ -18309,23 +18309,23 @@ const politics = [
   'diyor',
   'dedi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882181/meral_aksener__diyarbakir_da_boyle_karsilandi.html',
-  '',
+
   '2017-12-08',
   '09:36:03',
   '1',
@@ -18441,23 +18441,23 @@ const politics = [
   'değil"',
   'dedi.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882220/akp_li_sentop__yeni_belge_ortaya_cikarsa_zarrab_sorusturmasi_acilabilir.html',
-  '',
+
   '2017-12-08',
   '10:27:02',
   '1',
@@ -18534,23 +18534,23 @@ const politics = [
   'çok',
   'önemli.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882412/erdogan__dusuncesine_guvenen_dusunce_ozgurlugunden_korkmaz.html',
-  '',
+
   '2017-12-08',
   '13:54:02',
   '1',
@@ -18677,23 +18677,23 @@ const politics = [
   'güç',
   'yetmez.',
   ' r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882436/mhp_den_ihrac_edilen_baskan__hakkimi_hicbirine_helal_etmiyorum.html',
-  '',
+
   '2017-12-08',
   '14:18:03',
   '1',
@@ -18705,7 +18705,7 @@ const politics = [
   'görev',
   'aldır',
   ' ',
-  '',
+
   'örgütlen',
   'çalışma',
   'devam',
@@ -18795,23 +18795,23 @@ const politics = [
   'olarak',
   'değerlendirildi.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882552/iyi_parti_de__taktik_hata__gorevden_aldirdi.html',
-  '',
+
   '2017-12-08',
   '16:09:02',
   '1',
@@ -18891,23 +18891,23 @@ const politics = [
   'hesap',
   'verelim.',
   'r					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882546/kilicdaroglu_rest_cekti__santajlar_beni_korkutamaz.html',
-  '',
+
   '2017-12-08',
   '16:09:03',
   '1',
@@ -19077,7 +19077,7 @@ const politics = [
   'olarak',
   'hazırız.',
   ' ',
-  '',
+
   ' ataşehir',
   'belediye',
   'dilek',
@@ -19086,23 +19086,23 @@ const politics = [
   'şidde',
   'hayır',
   'etkinliğir					r',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   '  r					r				.',
   'http://www.cumhuriyet.com.tr/haber/siyaset/882441/atasehir_belediye_baskani_battal_ilgezdi_gorevden_uzaklastirildi.html',
-  '',
+
   '2017-12-08',
   '20:27:28',
   '1',
